@@ -1,0 +1,1273 @@
+0 RSSI -83 SNR 8.25 Frequency_Erro 1098 
+2 RSSI -85 SNR 9.25 Frequency_Erro 1105 
+3 RSSI -83 SNR 8.50 Frequency_Erro 1110 
+4 RSSI -85 SNR 8.75 Frequency_Erro 1114 
+5 RSSI -87 SNR 9.25 Frequency_Erro 1117 
+6 RSSI -86 SNR 10.75 Frequency_Erro 1120 
+7 RSSI -90 SNR 10.75 Frequency_Erro 1123 
+8 RSSI -86 SNR 9.75 Frequency_Erro 1124 
+9 RSSI -89 SNR 9.00 Frequency_Erro 1126 
+1 RSSI -90 SNR 11.00 Frequency_Erro 1130 
+10 RSSI -90 SNR 11.00 Frequency_Erro 1130 
+11 RSSI -86 SNR 12.00 Frequency_Erro 1134 
+12 RSSI -89 SNR 12.25 Frequency_Erro 1137 
+13 RSSI -87 SNR 9.00 Frequency_Erro 1140 
+14 RSSI -86 SNR 10.50 Frequency_Erro 1142 
+15 RSSI -86 SNR 11.75 Frequency_Erro 1145 
+16 RSSI -87 SNR 9.50 Frequency_Erro 1148 
+17 RSSI -87 SNR 8.75 Frequency_Erro 1150 
+18 RSSI -88 SNR 8.25 Frequency_Erro 1152 
+19 RSSI -89 SNR 9.00 Frequency_Erro 1156 
+20 RSSI -87 SNR 9.75 Frequency_Erro 1158 
+21 RSSI -87 SNR 9.25 Frequency_Erro 1160 
+22 RSSI -86 SNR 11.25 Frequency_Erro 1161 
+23 RSSI -87 SNR 12.00 Frequency_Erro 1162 
+24 RSSI -86 SNR 11.00 Frequency_Erro 1164 
+25 RSSI -84 SNR 12.50 Frequency_Erro 1167 
+26 RSSI -86 SNR 11.00 Frequency_Erro 1167 
+27 RSSI -88 SNR 11.25 Frequency_Erro 1169 
+28 RSSI -89 SNR 9.50 Frequency_Erro 1169 
+29 RSSI -86 SNR 12.00 Frequency_Erro 1171 
+30 RSSI -85 SNR 11.50 Frequency_Erro 1172 
+31 RSSI -88 SNR 9.50 Frequency_Erro 1172 
+32 RSSI -90 SNR 11.75 Frequency_Erro 1173 
+33 RSSI -94 SNR 11.25 Frequency_Erro 1175 
+34 RSSI -89 SNR 10.75 Frequency_Erro 1175 
+35 RSSI -86 SNR 11.00 Frequency_Erro 1175 
+36 RSSI -85 SNR 11.75 Frequency_Erro 1177 
+37 RSSI -87 SNR 9.50 Frequency_Erro 1177 
+38 RSSI -87 SNR 10.50 Frequency_Erro 1178 
+39 RSSI -89 SNR 10.75 Frequency_Erro 1179 
+40 RSSI -89 SNR 9.75 Frequency_Erro 1178 
+41 RSSI -88 SNR 9.00 Frequency_Erro 1179 
+42 RSSI -89 SNR 10.25 Frequency_Erro 1179 
+43 RSSI -89 SNR 11.75 Frequency_Erro 1178 
+44 RSSI -88 SNR 8.25 Frequency_Erro 1179 
+45 RSSI -89 SNR 11.75 Frequency_Erro 1180 
+46 RSSI -89 SNR 11.75 Frequency_Erro 1179 
+47 RSSI -90 SNR 10.25 Frequency_Erro 1179 
+48 RSSI -93 SNR 4.50 Frequency_Erro 1203 
+49 RSSI -96 SNR 9.00 Frequency_Erro 1179 
+50 RSSI -97 SNR 8.25 Frequency_Erro 1178 
+51 RSSI -99 SNR 11.75 Frequency_Erro 1179 
+52 RSSI -97 SNR 9.50 Frequency_Erro 1179 
+53 RSSI -94 SNR 12.50 Frequency_Erro 1179 
+54 RSSI -94 SNR 12.00 Frequency_Erro 1178 
+55 RSSI -94 SNR 11.50 Frequency_Erro 1177 
+56 RSSI -92 SNR 12.00 Frequency_Erro 1175 
+57 RSSI -94 SNR 12.00 Frequency_Erro 1175 
+58 RSSI -95 SNR 12.25 Frequency_Erro 1175 
+59 RSSI -97 SNR 9.25 Frequency_Erro 1174 
+60 RSSI -94 SNR 11.75 Frequency_Erro 1174 
+61 RSSI -95 SNR 12.00 Frequency_Erro 1174 
+62 RSSI -93 SNR 9.25 Frequency_Erro 1173 
+63 RSSI -93 SNR 11.75 Frequency_Erro 1174 
+64 RSSI -93 SNR 11.25 Frequency_Erro 1171 
+65 RSSI -94 SNR 11.75 Frequency_Erro 1172 
+66 RSSI -94 SNR 11.00 Frequency_Erro 1171 
+67 RSSI -94 SNR 11.50 Frequency_Erro 1171 
+68 RSSI -98 SNR 11.75 Frequency_Erro 1170 
+69 RSSI -97 SNR 9.25 Frequency_Erro 1169 
+70 RSSI -98 SNR 9.00 Frequency_Erro 1169 
+71 RSSI -97 SNR 11.50 Frequency_Erro 1167 
+72 RSSI -98 SNR 11.25 Frequency_Erro 1167 
+73 RSSI -100 SNR 9.00 Frequency_Erro 1165 
+74 RSSI -102 SNR 9.75 Frequency_Erro 1163 
+75 RSSI -100 SNR 9.25 Frequency_Erro 1167 
+76 RSSI -100 SNR 8.50 Frequency_Erro 1164 
+77 RSSI -105 SNR 8.00 Frequency_Erro 1163 
+78 RSSI -102 SNR 9.25 Frequency_Erro 1163 
+79 RSSI -107 SNR 8.00 Frequency_Erro 1162 
+80 RSSI -111 SNR 5.75 Frequency_Erro 1161 
+81 RSSI -103 SNR 10.00 Frequency_Erro 1160 
+82 RSSI -103 SNR 8.25 Frequency_Erro 1159 
+83 RSSI -107 SNR 8.50 Frequency_Erro 1150 
+84 RSSI -101 SNR 9.50 Frequency_Erro 1158 
+85 RSSI -106 SNR 8.75 Frequency_Erro 1158 
+86 RSSI -102 SNR 11.25 Frequency_Erro 1156 
+87 RSSI -99 SNR 9.00 Frequency_Erro 1155 
+88 RSSI -99 SNR 11.00 Frequency_Erro 1153 
+89 RSSI -101 SNR 8.25 Frequency_Erro 1153 
+90 RSSI -106 SNR 9.00 Frequency_Erro 1152 
+91 RSSI -114 SNR 0.25 Frequency_Erro 1151 
+92 RSSI -109 SNR 7.00 Frequency_Erro 1150 
+93 RSSI -104 SNR 10.00 Frequency_Erro 1150 
+94 RSSI -114 SNR 1.25 Frequency_Erro 1147 
+95 RSSI -110 SNR 5.50 Frequency_Erro 1149 
+96 RSSI -102 SNR 11.00 Frequency_Erro 1146 
+97 RSSI -103 SNR 10.25 Frequency_Erro 1145 
+98 RSSI -109 SNR 7.50 Frequency_Erro 1144 
+99 RSSI -111 SNR 6.00 Frequency_Erro 1143 
+1 RSSI -105 SNR 8.00 Frequency_Erro 1144 
+100 RSSI -105 SNR 8.00 Frequency_Erro 1144 
+101 RSSI -104 SNR 9.25 Frequency_Erro 1141 
+102 RSSI -103 SNR 8.50 Frequency_Erro 1139 
+103 RSSI -104 SNR 7.50 Frequency_Erro 1139 
+104 RSSI -109 SNR 4.75 Frequency_Erro 1137 
+105 RSSI -105 SNR 7.50 Frequency_Erro 1137 
+106 RSSI -109 SNR 5.25 Frequency_Erro 1134 
+107 RSSI -102 SNR 10.25 Frequency_Erro 1138 
+108 RSSI -103 SNR 10.00 Frequency_Erro 1134 
+109 RSSI -110 SNR 4.50 Frequency_Erro 1132 
+110 RSSI -106 SNR 8.25 Frequency_Erro 1131 
+111 RSSI -111 SNR 3.50 Frequency_Erro 1131 
+112 RSSI -106 SNR 8.75 Frequency_Erro 1131 
+113 RSSI -111 SNR -0.25 Frequency_Erro 1128 
+114 RSSI -106 SNR 7.75 Frequency_Erro 1128 
+115 RSSI -110 SNR 5.50 Frequency_Erro 1129 
+116 RSSI -103 SNR 9.50 Frequency_Erro 1127 
+117 RSSI -102 SNR 9.75 Frequency_Erro 1126 
+118 RSSI -106 SNR 8.25 Frequency_Erro 1127 
+119 RSSI -104 SNR 8.50 Frequency_Erro 1125 
+120 RSSI -105 SNR 8.50 Frequency_Erro 1125 
+121 RSSI -105 SNR 7.50 Frequency_Erro 1126 
+122 RSSI -110 SNR 4.75 Frequency_Erro 1123 
+123 RSSI -102 SNR 9.75 Frequency_Erro 1122 
+124 RSSI -107 SNR 8.75 Frequency_Erro 1123 
+125 RSSI -109 SNR 5.25 Frequency_Erro 1122 
+126 RSSI -108 SNR 6.50 Frequency_Erro 1122 
+127 RSSI -108 SNR 5.50 Frequency_Erro 1121 
+128 RSSI -105 SNR 8.25 Frequency_Erro 1121 
+129 RSSI -111 SNR 2.00 Frequency_Erro 1121 
+130 RSSI -108 SNR 6.00 Frequency_Erro 1119 
+131 RSSI -108 SNR 6.25 Frequency_Erro 1120 
+132 RSSI -105 SNR 8.25 Frequency_Erro 1119 
+133 RSSI -104 SNR 7.75 Frequency_Erro 1119 
+134 RSSI -113 SNR -3.25 Frequency_Erro 1118 
+135 RSSI -105 SNR 8.25 Frequency_Erro 1118 
+136 RSSI -106 SNR 8.75 Frequency_Erro 1117 
+137 RSSI -105 SNR 7.50 Frequency_Erro 1118 
+138 RSSI -104 SNR 8.00 Frequency_Erro 1117 
+139 RSSI -103 SNR 8.50 Frequency_Erro 1115 
+140 RSSI -112 SNR -0.25 Frequency_Erro 1115 
+141 RSSI -106 SNR 8.50 Frequency_Erro 1113 
+142 RSSI -108 SNR 7.00 Frequency_Erro 1110 
+143 RSSI -108 SNR 5.50 Frequency_Erro 1112 
+144 RSSI -112 SNR 3.25 Frequency_Erro 1112 
+145 RSSI -106 SNR 8.50 Frequency_Erro 1112 
+146 RSSI -108 SNR 6.75 Frequency_Erro 1110 
+147 RSSI -111 SNR 2.50 Frequency_Erro 1109 
+148 RSSI -108 SNR 6.75 Frequency_Erro 1109 
+149 RSSI -103 SNR 9.25 Frequency_Erro 1108 
+150 RSSI -107 SNR 7.50 Frequency_Erro 1104 
+151 RSSI -108 SNR 6.75 Frequency_Erro 1105 
+152 RSSI -109 SNR 5.75 Frequency_Erro 1105 
+153 RSSI -110 SNR 3.00 Frequency_Erro 1102 
+154 RSSI -109 SNR 7.00 Frequency_Erro 1104 
+155 RSSI -112 SNR 2.00 Frequency_Erro 1101 
+156 RSSI -108 SNR 7.00 Frequency_Erro 1101 
+157 RSSI -108 SNR 7.50 Frequency_Erro 1102 
+158 RSSI -111 SNR 4.50 Frequency_Erro 1096 
+159 RSSI -111 SNR 3.25 Frequency_Erro 1097 
+160 RSSI -106 SNR 8.00 Frequency_Erro 1096 
+161 RSSI -104 SNR 8.50 Frequency_Erro 1094 
+162 RSSI -105 SNR 9.50 Frequency_Erro 1091 
+163 RSSI -112 SNR 1.75 Frequency_Erro 1091 
+164 RSSI -106 SNR 8.25 Frequency_Erro 1089 
+165 RSSI -105 SNR 9.25 Frequency_Erro 1091 
+166 RSSI -106 SNR 8.50 Frequency_Erro 1088 
+167 RSSI -106 SNR 9.00 Frequency_Erro 1087 
+168 RSSI -105 SNR 8.75 Frequency_Erro 1086 
+169 RSSI -105 SNR 8.75 Frequency_Erro 1084 
+170 RSSI -106 SNR 7.75 Frequency_Erro 1083 
+171 RSSI -110 SNR 3.50 Frequency_Erro 1082 
+172 RSSI -110 SNR 4.50 Frequency_Erro 1080 
+173 RSSI -108 SNR 5.75 Frequency_Erro 1079 
+174 RSSI -112 SNR 2.00 Frequency_Erro 1077 
+175 RSSI -110 SNR 5.25 Frequency_Erro 1076 
+176 RSSI -105 SNR 8.75 Frequency_Erro 1075 
+177 RSSI -105 SNR 7.50 Frequency_Erro 1073 
+178 RSSI -106 SNR 8.75 Frequency_Erro 1072 
+179 RSSI -104 SNR 7.50 Frequency_Erro 1071 
+180 RSSI -110 SNR 4.25 Frequency_Erro 1067 
+181 RSSI -105 SNR 8.00 Frequency_Erro 1067 
+182 RSSI -108 SNR 6.50 Frequency_Erro 1065 
+183 RSSI -112 SNR 0.00 Frequency_Erro 1064 
+184 RSSI -107 SNR 7.00 Frequency_Erro 1063 
+185 RSSI -109 SNR 5.75 Frequency_Erro 1060 
+186 RSSI -109 SNR 5.00 Frequency_Erro 1059 
+187 RSSI -114 SNR -4.00 Frequency_Erro 1058 
+188 RSSI -111 SNR 3.50 Frequency_Erro 1056 
+189 RSSI -106 SNR 9.00 Frequency_Erro 1054 
+190 RSSI -110 SNR 4.00 Frequency_Erro 1053 
+191 RSSI -109 SNR 5.25 Frequency_Erro 1049 
+192 RSSI -110 SNR 4.25 Frequency_Erro 1049 
+193 RSSI -104 SNR 7.25 Frequency_Erro 1048 
+194 RSSI -109 SNR 5.50 Frequency_Erro 1045 
+195 RSSI -106 SNR 8.50 Frequency_Erro 1044 
+196 RSSI -106 SNR 8.75 Frequency_Erro 1043 
+197 RSSI -107 SNR 8.25 Frequency_Erro 1041 
+198 RSSI -106 SNR 8.50 Frequency_Erro 1039 
+199 RSSI -108 SNR 5.75 Frequency_Erro 1038 
+200 RSSI -108 SNR 6.50 Frequency_Erro 1037 
+201 RSSI -110 SNR 4.50 Frequency_Erro 1035 
+202 RSSI -110 SNR 4.25 Frequency_Erro 1033 
+203 RSSI -109 SNR 4.25 Frequency_Erro 1033 
+204 RSSI -111 SNR 3.50 Frequency_Erro 1029 
+205 RSSI -110 SNR 5.25 Frequency_Erro 1027 
+206 RSSI -110 SNR 4.25 Frequency_Erro 1028 
+207 RSSI -110 SNR 4.00 Frequency_Erro 1024 
+208 RSSI -111 SNR 2.50 Frequency_Erro 1022 
+209 RSSI -112 SNR -0.25 Frequency_Erro 1021 
+210 RSSI -113 SNR -0.75 Frequency_Erro 1019 
+211 RSSI -112 SNR 0.00 Frequency_Erro 1018 
+212 RSSI -114 SNR -9.00 Frequency_Erro 1015 
+213 RSSI -111 SNR 1.75 Frequency_Erro 1015 
+214 RSSI -112 SNR 2.25 Frequency_Erro 1014 
+215 RSSI -111 SNR 2.75 Frequency_Erro 1012 
+216 RSSI -113 SNR -7.75 Frequency_Erro 1011 
+217 RSSI -112 SNR -0.75 Frequency_Erro 1010 
+218 RSSI -113 SNR 0.00 Frequency_Erro 1010 
+219 RSSI -111 SNR 2.75 Frequency_Erro 1008 
+220 RSSI -109 SNR 4.50 Frequency_Erro 1007 
+221 RSSI -111 SNR 1.75 Frequency_Erro 1006 
+222 RSSI -115 SNR -4.25 Frequency_Erro 1005 
+223 RSSI -114 SNR -7.50 Frequency_Erro 1004 
+224 RSSI -112 SNR 1.00 Frequency_Erro 1001 
+225 RSSI -110 SNR 4.00 Frequency_Erro 1001 
+226 RSSI -110 SNR 3.50 Frequency_Erro 1000 
+227 RSSI -110 SNR 5.25 Frequency_Erro 1000 
+228 RSSI -108 SNR 5.50 Frequency_Erro 999 
+229 RSSI -109 SNR 5.50 Frequency_Erro 999 
+230 RSSI -108 SNR 6.00 Frequency_Erro 997 
+231 RSSI -110 SNR 4.00 Frequency_Erro 998 
+232 RSSI -108 SNR 5.75 Frequency_Erro 995 
+233 RSSI -109 SNR 4.75 Frequency_Erro 994 
+234 RSSI -110 SNR 4.75 Frequency_Erro 993 
+235 RSSI -109 SNR 6.00 Frequency_Erro 993 
+236 RSSI -110 SNR 4.50 Frequency_Erro 992 
+237 RSSI -110 SNR 4.75 Frequency_Erro 992 
+238 RSSI -110 SNR 4.50 Frequency_Erro 990 
+239 RSSI -111 SNR 2.50 Frequency_Erro 992 
+240 RSSI -109 SNR 4.75 Frequency_Erro 991 
+241 RSSI -112 SNR -0.25 Frequency_Erro 989 
+242 RSSI -111 SNR 2.75 Frequency_Erro 992 
+243 RSSI -111 SNR 2.75 Frequency_Erro 989 
+244 RSSI -112 SNR 0.75 Frequency_Erro 991 
+245 RSSI -112 SNR -0.75 Frequency_Erro 990 
+246 RSSI -113 SNR -5.00 Frequency_Erro 991 
+247 RSSI -113 SNR -2.25 Frequency_Erro 990 
+248 RSSI -113 SNR -6.00 Frequency_Erro 993 
+249 RSSI -113 SNR -2.25 Frequency_Erro 991 
+250 RSSI -113 SNR -4.00 Frequency_Erro 991 
+251 RSSI -111 SNR 1.25 Frequency_Erro 990 
+252 RSSI -112 SNR -0.75 Frequency_Erro 989 
+253 RSSI -113 SNR -3.50 Frequency_Erro 989 
+254 RSSI -114 SNR -4.50 Frequency_Erro 991 
+255 RSSI -114 SNR -7.75 Frequency_Erro 987 
+256 RSSI -113 SNR -1.75 Frequency_Erro 989 
+257 RSSI -113 SNR -3.50 Frequency_Erro 993 
+258 RSSI -112 SNR -1.00 Frequency_Erro 990 
+259 RSSI -111 SNR 1.25 Frequency_Erro 990 
+260 RSSI -112 SNR -0.50 Frequency_Erro 991 
+261 RSSI -113 SNR -5.25 Frequency_Erro 990 
+262 RSSI -112 SNR -1.75 Frequency_Erro 992 
+263 RSSI -112 SNR -0.75 Frequency_Erro 993 
+264 RSSI -113 SNR -5.00 Frequency_Erro 994 
+265 RSSI -114 SNR -5.25 Frequency_Erro 996 
+266 RSSI -112 SNR -3.25 Frequency_Erro 995 
+267 RSSI -113 SNR -7.75 Frequency_Erro 995 
+268 RSSI -113 SNR -11.25 Frequency_Erro 996 
+269 RSSI -114 SNR -12.50 Frequency_Erro 999 
+270 RSSI -113 SNR -7.25 Frequency_Erro 999 
+271 RSSI -113 SNR -5.50 Frequency_Erro 999 
+272 RSSI -113 SNR -7.75 Frequency_Erro 1002 
+273 RSSI -113 SNR -6.00 Frequency_Erro 1001 
+274 RSSI -113 SNR -11.75 Frequency_Erro 1002 
+275 RSSI -113 SNR -11.00 Frequency_Erro 1002 
+276 RSSI -113 SNR -12.00 Frequency_Erro -14983 
+277 RSSI -113 SNR -11.75 Frequency_Erro 1005 
+278 RSSI -113 SNR -10.25 Frequency_Erro 1009 
+279 RSSI -113 SNR -9.25 Frequency_Erro 1006 
+280 RSSI -113 SNR -9.00 Frequency_Erro 1001 
+282 RSSI -113 SNR -7.50 Frequency_Erro 1009 
+284 RSSI -113 SNR -7.50 Frequency_Erro 1011 
+285 RSSI -112 SNR -3.75 Frequency_Erro 1012 
+286 RSSI -111 SNR -0.25 Frequency_Erro 1013 
+287 RSSI -112 SNR -1.25 Frequency_Erro 1014 
+288 RSSI -111 SNR 0.00 Frequency_Erro 1014 
+289 RSSI -112 SNR -1.00 Frequency_Erro 1016 
+290 RSSI -113 SNR -3.25 Frequency_Erro 1016 
+291 RSSI -113 SNR -7.00 Frequency_Erro 1017 
+292 RSSI -112 SNR -1.25 Frequency_Erro 1018 
+293 RSSI -112 SNR -3.00 Frequency_Erro 1017 
+294 RSSI -112 SNR -2.50 Frequency_Erro 1018 
+295 RSSI -111 SNR -0.50 Frequency_Erro 1018 
+296 RSSI -111 SNR 0.00 Frequency_Erro 1019 
+297 RSSI -111 SNR 1.00 Frequency_Erro 1019 
+298 RSSI -112 SNR -1.75 Frequency_Erro 1019 
+299 RSSI -112 SNR -2.25 Frequency_Erro 1019 
+300 RSSI -112 SNR -1.25 Frequency_Erro 1020 
+301 RSSI -113 SNR -7.75 Frequency_Erro 1020 
+302 RSSI -113 SNR -7.25 Frequency_Erro 1020 
+303 RSSI -112 SNR -5.25 Frequency_Erro 1022 
+304 RSSI -113 SNR -8.50 Frequency_Erro 1020 
+306 RSSI -113 SNR -6.50 Frequency_Erro 1023 
+307 RSSI -112 SNR -1.25 Frequency_Erro 1021 
+308 RSSI -113 SNR -6.25 Frequency_Erro 1020 
+309 RSSI -113 SNR -4.75 Frequency_Erro 1024 
+310 RSSI -114 SNR -7.50 Frequency_Erro 1022 
+311 RSSI -113 SNR -5.25 Frequency_Erro 1021 
+312 RSSI -113 SNR -3.25 Frequency_Erro 1023 
+313 RSSI -113 SNR -6.75 Frequency_Erro 1023 
+314 RSSI -113 SNR -6.75 Frequency_Erro 1023 
+315 RSSI -112 SNR -3.00 Frequency_Erro 1026 
+316 RSSI -113 SNR -3.00 Frequency_Erro 1024 
+317 RSSI -112 SNR -2.75 Frequency_Erro 1022 
+318 RSSI -112 SNR -2.75 Frequency_Erro 1024 
+319 RSSI -113 SNR -5.50 Frequency_Erro 1026 
+320 RSSI -113 SNR -6.00 Frequency_Erro 1021 
+322 RSSI -113 SNR -8.25 Frequency_Erro 1023 
+323 RSSI -112 SNR -3.50 Frequency_Erro 1024 
+324 RSSI -113 SNR -4.00 Frequency_Erro 1024 
+325 RSSI -113 SNR -5.00 Frequency_Erro 1022 
+326 RSSI -113 SNR -3.75 Frequency_Erro 1024 
+327 RSSI -113 SNR -7.50 Frequency_Erro 1023 
+328 RSSI -113 SNR -6.00 Frequency_Erro 1023 
+329 RSSI -113 SNR -6.75 Frequency_Erro 1022 
+330 RSSI -113 SNR -3.00 Frequency_Erro 1021 
+331 RSSI -113 SNR -6.50 Frequency_Erro 1023 
+332 RSSI -114 SNR -12.00 Frequency_Erro 1022 
+333 RSSI -114 SNR -6.00 Frequency_Erro 1022 
+334 RSSI -113 SNR -8.25 Frequency_Erro 1022 
+335 RSSI -113 SNR -6.50 Frequency_Erro 1022 
+336 RSSI -113 SNR -2.75 Frequency_Erro 1021 
+337 RSSI -114 SNR -6.25 Frequency_Erro 1022 
+338 RSSI -113 SNR -6.25 Frequency_Erro 1023 
+339 RSSI -114 SNR -8.00 Frequency_Erro 1026 
+340 RSSI -113 SNR -6.50 Frequency_Erro 1026 
+341 RSSI -113 SNR -8.50 Frequency_Erro 1026 
+342 RSSI -114 SNR -13.50 Frequency_Erro 1029 
+343 RSSI -114 SNR -12.75 Frequency_Erro 1029 
+345 RSSI -106 SNR -13.75 Frequency_Erro 1030 
+346 RSSI -113 SNR -12.25 Frequency_Erro 1034 
+347 RSSI -113 SNR -12.00 Frequency_Erro 1032 
+349 RSSI -113 SNR -12.00 Frequency_Erro 1037 
+351 RSSI -114 SNR -10.75 Frequency_Erro 1041 
+352 RSSI -113 SNR -6.00 Frequency_Erro 1043 
+353 RSSI -113 SNR -5.75 Frequency_Erro 1044 
+354 RSSI -113 SNR -7.50 Frequency_Erro 1045 
+355 RSSI -114 SNR -12.75 Frequency_Erro 1050 
+358 RSSI -113 SNR -7.00 Frequency_Erro 1054 
+359 RSSI -113 SNR -5.75 Frequency_Erro 1056 
+360 RSSI -113 SNR -5.00 Frequency_Erro 1060 
+361 RSSI -112 SNR -1.50 Frequency_Erro 1064 
+362 RSSI -113 SNR -3.25 Frequency_Erro 1063 
+363 RSSI -113 SNR -2.75 Frequency_Erro 1067 
+364 RSSI -113 SNR -3.50 Frequency_Erro 1067 
+365 RSSI -113 SNR -6.25 Frequency_Erro 1070 
+366 RSSI -113 SNR -5.75 Frequency_Erro 1074 
+367 RSSI -113 SNR -6.50 Frequency_Erro 1075 
+368 RSSI -114 SNR -9.50 Frequency_Erro 1077 
+369 RSSI -113 SNR -6.75 Frequency_Erro 1078 
+370 RSSI -113 SNR -7.50 Frequency_Erro 1080 
+371 RSSI -113 SNR -10.25 Frequency_Erro 1084 
+372 RSSI -113 SNR -6.00 Frequency_Erro 1083 
+373 RSSI -113 SNR -6.00 Frequency_Erro 1086 
+374 RSSI -113 SNR -6.75 Frequency_Erro 1093 
+375 RSSI -113 SNR -6.25 Frequency_Erro 1095 
+376 RSSI -112 SNR -3.75 Frequency_Erro 1097 
+377 RSSI -112 SNR -6.75 Frequency_Erro 1092 
+378 RSSI -112 SNR -2.50 Frequency_Erro 1096 
+379 RSSI -113 SNR -10.75 Frequency_Erro 1101 
+380 RSSI -113 SNR -7.75 Frequency_Erro 1103 
+381 RSSI -113 SNR -6.25 Frequency_Erro 1105 
+382 RSSI -113 SNR -9.00 Frequency_Erro 1106 
+384 RSSI -113 SNR -4.50 Frequency_Erro 1114 
+403 RSSI -113 SNR -2.75 Frequency_Erro 1173 
+404 RSSI -114 SNR -8.25 Frequency_Erro 1174 
+406 RSSI -114 SNR -7.75 Frequency_Erro 1180 
+407 RSSI -114 SNR -4.50 Frequency_Erro 1175 
+408 RSSI -113 SNR -5.25 Frequency_Erro 1185 
+409 RSSI -113 SNR -4.00 Frequency_Erro 1184 
+410 RSSI -111 SNR 0.00 Frequency_Erro 1183 
+411 RSSI -112 SNR -1.75 Frequency_Erro 1187 
+412 RSSI -113 SNR -3.50 Frequency_Erro 1189 
+413 RSSI -114 SNR -10.50 Frequency_Erro 1190 
+414 RSSI -114 SNR -8.50 Frequency_Erro 1192 
+415 RSSI -113 SNR -5.50 Frequency_Erro 1192 
+416 RSSI -113 SNR -5.00 Frequency_Erro 1195 
+417 RSSI -114 SNR -11.00 Frequency_Erro 1195 
+418 RSSI -113 SNR -1.75 Frequency_Erro 1199 
+419 RSSI -112 SNR -1.25 Frequency_Erro 1196 
+420 RSSI -110 SNR 3.00 Frequency_Erro 1200 
+421 RSSI -110 SNR 3.75 Frequency_Erro 1204 
+422 RSSI -110 SNR 3.00 Frequency_Erro 1205 
+423 RSSI -111 SNR 2.00 Frequency_Erro 1206 
+424 RSSI -109 SNR 3.75 Frequency_Erro 1207 
+425 RSSI -110 SNR 2.75 Frequency_Erro 1209 
+426 RSSI -110 SNR 3.00 Frequency_Erro 1212 
+427 RSSI -110 SNR 3.00 Frequency_Erro 1212 
+428 RSSI -110 SNR 3.25 Frequency_Erro 1214 
+429 RSSI -111 SNR 0.75 Frequency_Erro 1217 
+430 RSSI -110 SNR 2.25 Frequency_Erro 1215 
+431 RSSI -111 SNR 1.75 Frequency_Erro 1220 
+432 RSSI -112 SNR 0.00 Frequency_Erro 1220 
+433 RSSI -113 SNR -2.25 Frequency_Erro 1222 
+434 RSSI -113 SNR -3.25 Frequency_Erro 1225 
+435 RSSI -114 SNR -5.25 Frequency_Erro 1224 
+436 RSSI -113 SNR -5.50 Frequency_Erro 1228 
+437 RSSI -113 SNR -5.50 Frequency_Erro 1230 
+438 RSSI -113 SNR -2.50 Frequency_Erro 1231 
+439 RSSI -111 SNR 1.00 Frequency_Erro 1230 
+440 RSSI -112 SNR 0.25 Frequency_Erro 1232 
+441 RSSI -114 SNR -6.00 Frequency_Erro 1235 
+443 RSSI -114 SNR -5.00 Frequency_Erro 1240 
+444 RSSI -113 SNR -2.50 Frequency_Erro 1238 
+445 RSSI -114 SNR -7.50 Frequency_Erro 1240 
+446 RSSI -113 SNR -9.50 Frequency_Erro 1243 
+447 RSSI -113 SNR -3.50 Frequency_Erro 1244 
+448 RSSI -112 SNR 0.50 Frequency_Erro 1243 
+449 RSSI -110 SNR 2.50 Frequency_Erro 1243 
+450 RSSI -112 SNR -0.75 Frequency_Erro 1246 
+451 RSSI -111 SNR 1.75 Frequency_Erro 1247 
+452 RSSI -112 SNR -2.00 Frequency_Erro 1248 
+453 RSSI -110 SNR 2.25 Frequency_Erro 1249 
+454 RSSI -111 SNR 2.50 Frequency_Erro 1251 
+455 RSSI -111 SNR 2.25 Frequency_Erro 1250 
+456 RSSI -110 SNR 3.00 Frequency_Erro 1251 
+457 RSSI -111 SNR 1.75 Frequency_Erro 1254 
+458 RSSI -111 SNR 1.00 Frequency_Erro 1256 
+459 RSSI -110 SNR 2.00 Frequency_Erro 1255 
+460 RSSI -114 SNR -4.25 Frequency_Erro 1257 
+461 RSSI -112 SNR 0.00 Frequency_Erro 1259 
+462 RSSI -109 SNR 4.00 Frequency_Erro 1259 
+463 RSSI -109 SNR 4.00 Frequency_Erro 1261 
+464 RSSI -112 SNR 0.00 Frequency_Erro 1261 
+465 RSSI -110 SNR 3.50 Frequency_Erro 1264 
+466 RSSI -112 SNR 1.50 Frequency_Erro 1266 
+467 RSSI -112 SNR 3.00 Frequency_Erro 1266 
+468 RSSI -111 SNR 3.25 Frequency_Erro 1267 
+469 RSSI -109 SNR 4.50 Frequency_Erro 1266 
+470 RSSI -114 SNR -5.50 Frequency_Erro 1268 
+471 RSSI -113 SNR -2.00 Frequency_Erro 1266 
+472 RSSI -114 SNR -4.00 Frequency_Erro 1268 
+473 RSSI -113 SNR -1.25 Frequency_Erro 1268 
+474 RSSI -115 SNR -11.75 Frequency_Erro 1267 
+476 RSSI -113 SNR 0.50 Frequency_Erro 1285 
+477 RSSI -115 SNR -8.75 Frequency_Erro 1285 
+478 RSSI -111 SNR 3.00 Frequency_Erro 1287 
+479 RSSI -110 SNR 4.00 Frequency_Erro 1287 
+480 RSSI -112 SNR 0.25 Frequency_Erro 1287 
+481 RSSI -113 SNR -1.50 Frequency_Erro 1289 
+482 RSSI -114 SNR -5.75 Frequency_Erro 1290 
+483 RSSI -112 SNR 1.00 Frequency_Erro 1289 
+484 RSSI -112 SNR 1.00 Frequency_Erro 1290 
+485 RSSI -109 SNR 4.75 Frequency_Erro 1290 
+486 RSSI -108 SNR 6.50 Frequency_Erro 1290 
+487 RSSI -112 SNR 1.75 Frequency_Erro 1291 
+488 RSSI -110 SNR 4.50 Frequency_Erro 1293 
+489 RSSI -108 SNR 5.75 Frequency_Erro 1293 
+491 RSSI -113 SNR 0.00 Frequency_Erro 1294 
+492 RSSI -112 SNR 2.00 Frequency_Erro 1294 
+493 RSSI -106 SNR 7.75 Frequency_Erro 1293 
+494 RSSI -109 SNR 6.75 Frequency_Erro 1296 
+495 RSSI -108 SNR 4.75 Frequency_Erro 1295 
+496 RSSI -111 SNR 3.25 Frequency_Erro 1297 
+497 RSSI -109 SNR 4.25 Frequency_Erro 1298 
+498 RSSI -106 SNR 8.00 Frequency_Erro 1299 
+499 RSSI -108 SNR 5.00 Frequency_Erro 1299 
+500 RSSI -112 SNR 0.75 Frequency_Erro 1299 
+501 RSSI -108 SNR 7.00 Frequency_Erro 1301 
+502 RSSI -108 SNR 6.00 Frequency_Erro 1301 
+503 RSSI -111 SNR 3.50 Frequency_Erro 1301 
+504 RSSI -111 SNR 2.75 Frequency_Erro 1302 
+505 RSSI -106 SNR 8.50 Frequency_Erro 1302 
+506 RSSI -109 SNR 6.00 Frequency_Erro 1303 
+507 RSSI -109 SNR 5.00 Frequency_Erro 1304 
+508 RSSI -110 SNR 3.25 Frequency_Erro 1302 
+509 RSSI -106 SNR 8.50 Frequency_Erro 1304 
+510 RSSI -108 SNR 6.25 Frequency_Erro 1303 
+511 RSSI -110 SNR 4.00 Frequency_Erro 1306 
+512 RSSI -109 SNR 4.75 Frequency_Erro 1308 
+513 RSSI -105 SNR 8.00 Frequency_Erro 1308 
+514 RSSI -105 SNR 8.00 Frequency_Erro 1308 
+515 RSSI -108 SNR 6.75 Frequency_Erro 1308 
+516 RSSI -111 SNR 3.50 Frequency_Erro 1309 
+517 RSSI -105 SNR 7.75 Frequency_Erro 1309 
+518 RSSI -105 SNR 7.75 Frequency_Erro 1310 
+519 RSSI -109 SNR 4.50 Frequency_Erro 1310 
+520 RSSI -105 SNR 8.75 Frequency_Erro 1311 
+521 RSSI -108 SNR 5.25 Frequency_Erro 1312 
+522 RSSI -105 SNR 8.00 Frequency_Erro 1312 
+523 RSSI -108 SNR 6.25 Frequency_Erro 1312 
+524 RSSI -113 SNR -0.50 Frequency_Erro 1313 
+525 RSSI -109 SNR 4.75 Frequency_Erro 1313 
+526 RSSI -110 SNR 4.00 Frequency_Erro 1314 
+527 RSSI -109 SNR 5.50 Frequency_Erro 1314 
+528 RSSI -108 SNR 6.00 Frequency_Erro 1315 
+529 RSSI -112 SNR 1.25 Frequency_Erro 1315 
+530 RSSI -111 SNR 2.00 Frequency_Erro 1314 
+531 RSSI -109 SNR 4.75 Frequency_Erro 1316 
+532 RSSI -106 SNR 8.00 Frequency_Erro 1316 
+533 RSSI -112 SNR 0.50 Frequency_Erro 1318 
+534 RSSI -110 SNR 5.25 Frequency_Erro 1318 
+535 RSSI -111 SNR 4.25 Frequency_Erro 1316 
+536 RSSI -107 SNR 7.75 Frequency_Erro 1317 
+537 RSSI -108 SNR 6.25 Frequency_Erro 1320 
+538 RSSI -112 SNR 1.50 Frequency_Erro 1319 
+539 RSSI -109 SNR 4.25 Frequency_Erro 1320 
+540 RSSI -111 SNR 3.25 Frequency_Erro 1320 
+541 RSSI -110 SNR 4.50 Frequency_Erro 1322 
+542 RSSI -112 SNR 0.00 Frequency_Erro 1324 
+543 RSSI -113 SNR -1.25 Frequency_Erro 1320 
+544 RSSI -109 SNR 4.25 Frequency_Erro 1322 
+545 RSSI -111 SNR 1.50 Frequency_Erro 1319 
+546 RSSI -109 SNR 5.00 Frequency_Erro 1322 
+547 RSSI -111 SNR 3.00 Frequency_Erro 1324 
+548 RSSI -110 SNR 4.00 Frequency_Erro 1324 
+549 RSSI -112 SNR 0.50 Frequency_Erro 1323 
+550 RSSI -113 SNR -3.25 Frequency_Erro 1326 
+551 RSSI -113 SNR -1.75 Frequency_Erro 1326 
+552 RSSI -109 SNR 4.00 Frequency_Erro 1328 
+553 RSSI -110 SNR 1.50 Frequency_Erro 1329 
+554 RSSI -113 SNR -1.75 Frequency_Erro 1328 
+555 RSSI -112 SNR 0.25 Frequency_Erro 1329 
+556 RSSI -113 SNR -2.25 Frequency_Erro 1328 
+557 RSSI -110 SNR 4.00 Frequency_Erro 1328 
+558 RSSI -107 SNR 6.50 Frequency_Erro 1330 
+559 RSSI -108 SNR 5.50 Frequency_Erro 1329 
+560 RSSI -109 SNR 4.75 Frequency_Erro 1329 
+561 RSSI -113 SNR -3.25 Frequency_Erro 1332 
+562 RSSI -113 SNR -1.25 Frequency_Erro 1332 
+563 RSSI -112 SNR -0.50 Frequency_Erro 1331 
+564 RSSI -111 SNR 2.00 Frequency_Erro 1333 
+565 RSSI -105 SNR 7.25 Frequency_Erro 1332 
+566 RSSI -105 SNR 8.00 Frequency_Erro 1333 
+567 RSSI -107 SNR 6.00 Frequency_Erro 1335 
+568 RSSI -108 SNR 5.50 Frequency_Erro 1335 
+569 RSSI -110 SNR 4.50 Frequency_Erro 1336 
+570 RSSI -112 SNR -1.50 Frequency_Erro 1336 
+571 RSSI -110 SNR 2.50 Frequency_Erro 1336 
+572 RSSI -114 SNR -7.25 Frequency_Erro 1338 
+573 RSSI -110 SNR 3.50 Frequency_Erro 1337 
+574 RSSI -110 SNR 4.25 Frequency_Erro 1338 
+575 RSSI -111 SNR 2.00 Frequency_Erro 1333 
+576 RSSI -107 SNR 7.00 Frequency_Erro 1337 
+577 RSSI -106 SNR 7.75 Frequency_Erro 1337 
+578 RSSI -107 SNR 7.00 Frequency_Erro 1337 
+579 RSSI -107 SNR 6.50 Frequency_Erro 1338 
+580 RSSI -105 SNR 7.50 Frequency_Erro 1337 
+581 RSSI -104 SNR 8.00 Frequency_Erro 1338 
+582 RSSI -109 SNR 4.75 Frequency_Erro 1338 
+583 RSSI -113 SNR -4.00 Frequency_Erro 1339 
+584 RSSI -111 SNR 1.00 Frequency_Erro 1340 
+585 RSSI -107 SNR 8.00 Frequency_Erro 1339 
+586 RSSI -109 SNR 4.50 Frequency_Erro 1338 
+587 RSSI -105 SNR 7.75 Frequency_Erro 1339 
+588 RSSI -106 SNR 8.00 Frequency_Erro 1338 
+589 RSSI -110 SNR 3.00 Frequency_Erro 1339 
+590 RSSI -101 SNR 10.50 Frequency_Erro 1339 
+591 RSSI -101 SNR 10.75 Frequency_Erro 1338 
+592 RSSI -103 SNR 9.50 Frequency_Erro 1338 
+593 RSSI -108 SNR 5.50 Frequency_Erro 1338 
+594 RSSI -103 SNR 9.75 Frequency_Erro 1338 
+595 RSSI -102 SNR 11.00 Frequency_Erro 1338 
+596 RSSI -101 SNR 8.25 Frequency_Erro 1338 
+597 RSSI -101 SNR 9.00 Frequency_Erro 1337 
+598 RSSI -101 SNR 9.50 Frequency_Erro 1337 
+599 RSSI -102 SNR 10.50 Frequency_Erro 1337 
+600 RSSI -99 SNR 9.00 Frequency_Erro 1336 
+601 RSSI -101 SNR 10.75 Frequency_Erro 1336 
+602 RSSI -103 SNR 8.25 Frequency_Erro 1337 
+603 RSSI -101 SNR 9.75 Frequency_Erro 1336 
+604 RSSI -100 SNR 8.50 Frequency_Erro 1336 
+605 RSSI -101 SNR 10.25 Frequency_Erro 1336 
+606 RSSI -103 SNR 8.50 Frequency_Erro 1336 
+607 RSSI -103 SNR 8.75 Frequency_Erro 1335 
+608 RSSI -100 SNR 8.75 Frequency_Erro 1335 
+609 RSSI -103 SNR 7.50 Frequency_Erro 1336 
+610 RSSI -104 SNR 7.25 Frequency_Erro 1335 
+611 RSSI -105 SNR 7.00 Frequency_Erro 1336 
+612 RSSI -99 SNR 9.00 Frequency_Erro 1336 
+613 RSSI -106 SNR 6.75 Frequency_Erro 1337 
+614 RSSI -103 SNR 8.75 Frequency_Erro 1336 
+615 RSSI -101 SNR 8.25 Frequency_Erro 1336 
+616 RSSI -100 SNR 9.00 Frequency_Erro 1335 
+617 RSSI -102 SNR 10.25 Frequency_Erro 1336 
+618 RSSI -101 SNR 10.25 Frequency_Erro 1335 
+619 RSSI -98 SNR 10.25 Frequency_Erro 1336 
+620 RSSI -101 SNR 9.00 Frequency_Erro 1336 
+621 RSSI -110 SNR 2.50 Frequency_Erro 1335 
+622 RSSI -99 SNR 8.50 Frequency_Erro 1337 
+623 RSSI -101 SNR 10.25 Frequency_Erro 1336 
+624 RSSI -106 SNR 6.00 Frequency_Erro 1337 
+625 RSSI -97 SNR 11.50 Frequency_Erro 1337 
+626 RSSI -95 SNR 9.75 Frequency_Erro 1336 
+627 RSSI -100 SNR 9.50 Frequency_Erro 1339 
+628 RSSI -96 SNR 9.75 Frequency_Erro 1337 
+629 RSSI -93 SNR 11.75 Frequency_Erro 1337 
+630 RSSI -94 SNR 10.75 Frequency_Erro 1337 
+631 RSSI -98 SNR 10.25 Frequency_Erro 1337 
+632 RSSI -95 SNR 9.00 Frequency_Erro 1338 
+633 RSSI -95 SNR 9.75 Frequency_Erro 1338 
+634 RSSI -98 SNR 11.25 Frequency_Erro 1338 
+635 RSSI -97 SNR 10.50 Frequency_Erro 1338 
+636 RSSI -97 SNR 10.75 Frequency_Erro 1338 
+637 RSSI -96 SNR 9.75 Frequency_Erro 1339 
+638 RSSI -95 SNR 8.75 Frequency_Erro 1340 
+639 RSSI -99 SNR 9.25 Frequency_Erro 1339 
+640 RSSI -101 SNR 8.25 Frequency_Erro 1340 
+641 RSSI -103 SNR 8.50 Frequency_Erro 1339 
+642 RSSI -93 SNR 11.75 Frequency_Erro 1340 
+643 RSSI -95 SNR 8.50 Frequency_Erro 1340 
+644 RSSI -97 SNR 9.25 Frequency_Erro 1341 
+645 RSSI -103 SNR 8.25 Frequency_Erro 1342 
+646 RSSI -93 SNR 12.00 Frequency_Erro 1342 
+647 RSSI -96 SNR 9.25 Frequency_Erro 1343 
+648 RSSI -93 SNR 11.50 Frequency_Erro 1343 
+649 RSSI -92 SNR 10.50 Frequency_Erro 1343 
+650 RSSI -98 SNR 10.00 Frequency_Erro 1343 
+651 RSSI -96 SNR 9.75 Frequency_Erro 1343 
+652 RSSI -99 SNR 10.00 Frequency_Erro 1344 
+653 RSSI -93 SNR 11.75 Frequency_Erro 1345 
+654 RSSI -91 SNR 8.75 Frequency_Erro 1345 
+655 RSSI -94 SNR 11.75 Frequency_Erro 1346 
+656 RSSI -90 SNR 11.25 Frequency_Erro 1345 
+657 RSSI -90 SNR 11.75 Frequency_Erro 1346 
+658 RSSI -92 SNR 10.75 Frequency_Erro 1346 
+659 RSSI -97 SNR 9.75 Frequency_Erro 1346 
+660 RSSI -94 SNR 11.00 Frequency_Erro 1347 
+661 RSSI -92 SNR 11.75 Frequency_Erro 1347 
+662 RSSI -91 SNR 9.50 Frequency_Erro 1348 
+663 RSSI -94 SNR 9.75 Frequency_Erro 1347 
+664 RSSI -100 SNR 9.75 Frequency_Erro 1348 
+665 RSSI -94 SNR 11.00 Frequency_Erro 1344 
+666 RSSI -92 SNR 8.75 Frequency_Erro 1348 Latitude -21.779033 Longitude -43.373638 Altitude 923.70 Velocidade_(km/h)  -1.00 Sentido_(graus) 10000000.00 Satelites  9 Precisao_(centesimos_de_seg)  162 
+667 RSSI -86 SNR 10.25 Frequency_Erro 1348 Latitude -21.779033 Longitude -43.373638 Altitude 923.70 Velocidade_(km/h)  -1.00 Sentido_(graus) 10000000.00 Satelites  9 Precisao_(centesimos_de_seg)  162 
+668 RSSI -88 SNR 11.25 Frequency_Erro 1348 Latitude -21.779022 Longitude -43.373619 Altitude 923.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  9 Precisao_(centesimos_de_seg)  162 
+669 RSSI -85 SNR 11.25 Frequency_Erro 1348 Latitude -21.779022 Longitude -43.373619 Altitude 923.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  9 Precisao_(centesimos_de_seg)  162 
+670 RSSI -86 SNR 11.75 Frequency_Erro 1348 Latitude -21.779022 Longitude -43.373619 Altitude 923.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  9 Precisao_(centesimos_de_seg)  162 
+671 RSSI -81 SNR 11.00 Frequency_Erro 1350 Latitude -21.779022 Longitude -43.373619 Altitude 923.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  9 Precisao_(centesimos_de_seg)  162 
+672 RSSI -83 SNR 11.00 Frequency_Erro 1350 Latitude -21.779022 Longitude -43.373619 Altitude 923.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  9 Precisao_(centesimos_de_seg)  162 
+673 RSSI -86 SNR 9.75 Frequency_Erro 1350 Latitude -21.779022 Longitude -43.373619 Altitude 923.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  9 Precisao_(centesimos_de_seg)  162 
+674 RSSI -89 SNR 11.25 Frequency_Erro 1350 Latitude -21.779022 Longitude -43.373619 Altitude 923.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  9 Precisao_(centesimos_de_seg)  162 
+675 RSSI -91 SNR 9.00 Frequency_Erro 1350 Latitude -21.779022 Longitude -43.373619 Altitude 923.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  9 Precisao_(centesimos_de_seg)  162 
+676 RSSI -96 SNR 10.25 Frequency_Erro 1350 Latitude -21.779022 Longitude -43.373619 Altitude 923.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  9 Precisao_(centesimos_de_seg)  162 
+677 RSSI -91 SNR 11.25 Frequency_Erro 1350 Latitude -21.779022 Longitude -43.373619 Altitude 923.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  9 Precisao_(centesimos_de_seg)  162 
+678 RSSI -92 SNR 9.25 Frequency_Erro 1350 Latitude -21.779022 Longitude -43.373619 Altitude 923.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  9 Precisao_(centesimos_de_seg)  162 
+679 RSSI -90 SNR 10.50 Frequency_Erro 1348 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+680 RSSI -93 SNR 10.50 Frequency_Erro 1350 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+681 RSSI -93 SNR 11.00 Frequency_Erro 1348 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+682 RSSI -95 SNR 10.75 Frequency_Erro 1350 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+683 RSSI -98 SNR 10.50 Frequency_Erro 1348 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+684 RSSI -93 SNR 9.50 Frequency_Erro 1348 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+685 RSSI -95 SNR 12.25 Frequency_Erro 1348 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+686 RSSI -94 SNR 9.00 Frequency_Erro 1348 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+687 RSSI -93 SNR 9.25 Frequency_Erro 1348 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+688 RSSI -96 SNR 10.50 Frequency_Erro 1347 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+689 RSSI -93 SNR 8.25 Frequency_Erro 1347 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+690 RSSI -97 SNR 10.00 Frequency_Erro 1346 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+691 RSSI -95 SNR 10.25 Frequency_Erro 1346 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+692 RSSI -92 SNR 9.75 Frequency_Erro 1345 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+693 RSSI -92 SNR 10.25 Frequency_Erro 1344 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+694 RSSI -102 SNR 9.00 Frequency_Erro 1344 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+695 RSSI -99 SNR 9.75 Frequency_Erro 1342 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+696 RSSI -95 SNR 11.00 Frequency_Erro 1341 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+697 RSSI -94 SNR 10.75 Frequency_Erro 1341 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+698 RSSI -95 SNR 11.75 Frequency_Erro 1341 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+699 RSSI -102 SNR 9.75 Frequency_Erro 1341 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+700 RSSI -94 SNR 11.25 Frequency_Erro 1339 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+701 RSSI -92 SNR 10.25 Frequency_Erro 1338 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+702 RSSI -92 SNR 11.25 Frequency_Erro 1337 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+703 RSSI -92 SNR 11.25 Frequency_Erro 1336 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+704 RSSI -94 SNR 9.75 Frequency_Erro 1335 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+705 RSSI -92 SNR 12.25 Frequency_Erro 1334 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+706 RSSI -93 SNR 11.00 Frequency_Erro 1333 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+708 RSSI -92 SNR 11.75 Frequency_Erro 1333 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+709 RSSI -88 SNR 9.50 Frequency_Erro 1330 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+710 RSSI -90 SNR 11.50 Frequency_Erro 1329 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+711 RSSI -92 SNR 11.50 Frequency_Erro 1326 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+712 RSSI -95 SNR 10.75 Frequency_Erro 1325 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+713 RSSI -93 SNR 10.50 Frequency_Erro 1326 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+714 RSSI -93 SNR 10.25 Frequency_Erro 1323 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+715 RSSI -93 SNR 10.00 Frequency_Erro 1322 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+716 RSSI -94 SNR 9.00 Frequency_Erro 1320 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+717 RSSI -94 SNR 8.25 Frequency_Erro 1318 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+718 RSSI -93 SNR 10.50 Frequency_Erro 1318 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+719 RSSI -91 SNR 11.75 Frequency_Erro 1316 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+720 RSSI -92 SNR 11.00 Frequency_Erro 1315 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+721 RSSI -95 SNR 11.00 Frequency_Erro 1314 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+722 RSSI -94 SNR 8.75 Frequency_Erro 1313 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+723 RSSI -93 SNR 9.00 Frequency_Erro 1311 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+724 RSSI -97 SNR 9.75 Frequency_Erro 1311 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+725 RSSI -98 SNR 9.00 Frequency_Erro 1309 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+726 RSSI -97 SNR 9.75 Frequency_Erro 1308 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+727 RSSI -100 SNR 11.00 Frequency_Erro 1306 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+728 RSSI -99 SNR 9.75 Frequency_Erro 1306 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+729 RSSI -100 SNR 11.00 Frequency_Erro 1303 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+730 RSSI -111 SNR 5.00 Frequency_Erro 1300 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+731 RSSI -99 SNR 11.00 Frequency_Erro 1301 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+732 RSSI -100 SNR 11.75 Frequency_Erro 1299 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+733 RSSI -101 SNR 9.75 Frequency_Erro 1299 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+734 RSSI -100 SNR 11.25 Frequency_Erro 1297 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+735 RSSI -99 SNR 9.50 Frequency_Erro 1296 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+736 RSSI -99 SNR 11.00 Frequency_Erro 1293 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+737 RSSI -97 SNR 9.50 Frequency_Erro 1293 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+738 RSSI -97 SNR 10.50 Frequency_Erro 1291 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+739 RSSI -97 SNR 10.00 Frequency_Erro 1289 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+740 RSSI -97 SNR 8.25 Frequency_Erro 1288 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+741 RSSI -99 SNR 10.25 Frequency_Erro 1287 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+742 RSSI -97 SNR 9.50 Frequency_Erro 1286 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+743 RSSI -98 SNR 8.50 Frequency_Erro 1285 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+744 RSSI -99 SNR 10.00 Frequency_Erro 1282 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+745 RSSI -99 SNR 9.75 Frequency_Erro 1281 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+746 RSSI -99 SNR 10.50 Frequency_Erro 1280 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+747 RSSI -100 SNR 9.75 Frequency_Erro 1278 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+748 RSSI -100 SNR 11.75 Frequency_Erro 1277 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+749 RSSI -100 SNR 11.25 Frequency_Erro 1276 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+750 RSSI -99 SNR 10.75 Frequency_Erro 1276 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+751 RSSI -99 SNR 12.00 Frequency_Erro 1273 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+752 RSSI -111 SNR 5.00 Frequency_Erro 1270 Latitude 2143.373535 Longitude 0.012400 Altitude 0.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  196 Precisao_(centesimos_de_seg)  17121800 
+753 RSSI -102 SNR 8.50 Frequency_Erro 1270 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+754 RSSI -106 SNR 9.25 Frequency_Erro 1268 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+755 RSSI -110 SNR 6.75 Frequency_Erro 1267 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+756 RSSI -113 SNR 3.25 Frequency_Erro 1265 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+757 RSSI -110 SNR 7.75 Frequency_Erro 1265 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+758 RSSI -106 SNR 8.25 Frequency_Erro 1263 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+759 RSSI -108 SNR 8.25 Frequency_Erro 1263 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+760 RSSI -104 SNR 10.50 Frequency_Erro 1261 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+761 RSSI -102 SNR 9.00 Frequency_Erro 1258 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+762 RSSI -101 SNR 9.50 Frequency_Erro 1256 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+763 RSSI -101 SNR 10.00 Frequency_Erro 1255 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+764 RSSI -105 SNR 9.25 Frequency_Erro 1255 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+765 RSSI -104 SNR 10.50 Frequency_Erro 1253 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+766 RSSI -104 SNR 10.00 Frequency_Erro 1251 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+767 RSSI -114 SNR 2.75 Frequency_Erro 1249 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+768 RSSI -105 SNR 9.50 Frequency_Erro 1250 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+769 RSSI -106 SNR 8.00 Frequency_Erro 1248 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+770 RSSI -104 SNR 9.00 Frequency_Erro 1248 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+771 RSSI -103 SNR 11.00 Frequency_Erro 1245 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+772 RSSI -108 SNR 8.75 Frequency_Erro 1244 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+773 RSSI -104 SNR 9.00 Frequency_Erro 1243 Latitude -21.779275 Longitude -43.374107 Altitude 922.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+774 RSSI -104 SNR 10.75 Frequency_Erro 1242 Latitude -21.779346 Longitude -43.374282 Altitude 923.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  10 Precisao_(centesimos_de_seg)  89 
+775 RSSI -110 SNR 6.00 Frequency_Erro 1248 Latitude -21.779346 Longitude -43.374282 Altitude 923.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  10 Precisao_(centesimos_de_seg)  89 
+776 RSSI -114 SNR 2.50 Frequency_Erro 1238 Latitude -21.779346 Longitude -43.374282 Altitude 923.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  10 Precisao_(centesimos_de_seg)  89 
+777 RSSI -112 SNR 4.75 Frequency_Erro 1238 Latitude -21.779346 Longitude -43.374282 Altitude 923.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  10 Precisao_(centesimos_de_seg)  89 
+778 RSSI -102 SNR 9.75 Frequency_Erro 1236 Latitude -21.779346 Longitude -43.374282 Altitude 923.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  10 Precisao_(centesimos_de_seg)  89 
+779 RSSI -108 SNR 8.25 Frequency_Erro 1234 Latitude -21.779346 Longitude -43.374282 Altitude 923.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  10 Precisao_(centesimos_de_seg)  89 
+780 RSSI -112 SNR 5.50 Frequency_Erro 1232 Latitude -21.779346 Longitude -43.374282 Altitude 923.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  10 Precisao_(centesimos_de_seg)  89 
+781 RSSI -103 SNR 11.50 Frequency_Erro 1233 Latitude -21.779346 Longitude -43.374282 Altitude 923.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  10 Precisao_(centesimos_de_seg)  89 
+782 RSSI -106 SNR 8.25 Frequency_Erro 1232 Latitude -21.779346 Longitude -43.374282 Altitude 923.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  10 Precisao_(centesimos_de_seg)  89 
+783 RSSI -103 SNR 10.75 Frequency_Erro 1231 Latitude -21.779346 Longitude -43.374282 Altitude 923.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  10 Precisao_(centesimos_de_seg)  89 
+784 RSSI -106 SNR 8.00 Frequency_Erro 1230 Latitude -21.779346 Longitude -43.374282 Altitude 923.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  10 Precisao_(centesimos_de_seg)  89 
+785 RSSI -109 SNR 7.25 Frequency_Erro 1227 Latitude -21.779346 Longitude -43.374282 Altitude 923.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  10 Precisao_(centesimos_de_seg)  89 
+786 RSSI -105 SNR 10.00 Frequency_Erro 1228 Latitude -21.779346 Longitude -43.374282 Altitude 923.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  10 Precisao_(centesimos_de_seg)  89 
+787 RSSI -113 SNR 5.25 Frequency_Erro 1227 Latitude -21.779399 Longitude -43.374389 Altitude 923.60 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+788 RSSI -106 SNR 9.00 Frequency_Erro 1225 Latitude -21.779399 Longitude -43.374389 Altitude 923.60 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+789 RSSI -106 SNR 8.75 Frequency_Erro 1226 Latitude -21.779399 Longitude -43.374389 Altitude 923.60 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+790 RSSI -105 SNR 10.25 Frequency_Erro 1224 Latitude -21.779399 Longitude -43.374389 Altitude 923.60 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+791 RSSI -108 SNR 7.50 Frequency_Erro 1224 Latitude -21.779399 Longitude -43.374389 Altitude 923.60 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+792 RSSI -109 SNR 8.75 Frequency_Erro 1222 Latitude -21.779399 Longitude -43.374389 Altitude 923.60 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+793 RSSI -112 SNR 5.75 Frequency_Erro 1222 Latitude -21.779424 Longitude -43.374439 Altitude 923.50 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+794 RSSI -106 SNR 10.00 Frequency_Erro 1221 Latitude -21.779428 Longitude -43.374446 Altitude 923.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+795 RSSI -108 SNR 8.50 Frequency_Erro 1221 Latitude -21.779428 Longitude -43.374446 Altitude 923.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+796 RSSI -107 SNR 8.50 Frequency_Erro 1218 Latitude -21.779428 Longitude -43.374446 Altitude 923.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+797 RSSI -109 SNR 8.75 Frequency_Erro 1218 Latitude -21.779438 Longitude -43.374469 Altitude 923.30 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  89 
+798 RSSI -112 SNR 7.50 Frequency_Erro 1217 Latitude -21.779438 Longitude -43.374469 Altitude 923.30 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  89 
+799 RSSI -111 SNR 5.00 Frequency_Erro 1217 Latitude -21.779441 Longitude -43.374485 Altitude 923.10 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  82 
+800 RSSI -112 SNR 5.75 Frequency_Erro 1217 Latitude -21.779443 Longitude -43.374496 Altitude 923.20 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  89 
+801 RSSI -105 SNR 10.00 Frequency_Erro 1217 Latitude -21.779443 Longitude -43.374496 Altitude 923.20 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  89 
+802 RSSI -108 SNR 9.25 Frequency_Erro 1216 Latitude -21.779443 Longitude -43.374496 Altitude 923.20 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  89 
+803 RSSI -110 SNR 7.75 Frequency_Erro 1214 Latitude -21.779460 Longitude -43.374515 Altitude 922.80 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+804 RSSI -113 SNR 5.00 Frequency_Erro 1214 Latitude -21.779466 Longitude -43.374526 Altitude 922.80 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+805 RSSI -109 SNR 7.75 Frequency_Erro 1215 Latitude -21.779466 Longitude -43.374526 Altitude 922.80 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+806 RSSI -109 SNR 9.00 Frequency_Erro 1215 Latitude -21.779472 Longitude -43.374542 Altitude 922.50 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+807 RSSI -112 SNR 7.00 Frequency_Erro 1214 Latitude -21.779476 Longitude -43.374553 Altitude 922.20 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+808 RSSI -105 SNR 8.75 Frequency_Erro 1215 Latitude -21.779476 Longitude -43.374553 Altitude 922.20 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+809 RSSI -109 SNR 8.00 Frequency_Erro 1214 Latitude -21.779476 Longitude -43.374553 Altitude 922.20 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+810 RSSI -107 SNR 9.00 Frequency_Erro 1214 Latitude -21.779489 Longitude -43.374576 Altitude 921.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+811 RSSI -108 SNR 9.25 Frequency_Erro 1215 Latitude -21.779495 Longitude -43.374584 Altitude 922.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  89 
+812 RSSI -111 SNR 5.50 Frequency_Erro 1215 Latitude -21.779497 Longitude -43.374595 Altitude 921.90 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+813 RSSI -111 SNR 7.00 Frequency_Erro 1215 Latitude -21.779502 Longitude -43.374607 Altitude 921.90 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+814 RSSI -107 SNR 9.50 Frequency_Erro 1213 Latitude -21.779504 Longitude -43.374614 Altitude 921.90 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+815 RSSI -109 SNR 9.75 Frequency_Erro 1213 Latitude -21.779508 Longitude -43.374626 Altitude 921.90 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+816 RSSI -112 SNR 6.00 Frequency_Erro 1216 Latitude -21.779508 Longitude -43.374626 Altitude 921.90 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+817 RSSI -113 SNR 5.75 Frequency_Erro 1212 Latitude -21.779508 Longitude -43.374626 Altitude 921.90 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+818 RSSI -108 SNR 9.50 Frequency_Erro 1213 Latitude -21.779518 Longitude -43.374656 Altitude 921.40 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+819 RSSI -108 SNR 9.50 Frequency_Erro 1213 Latitude -21.779523 Longitude -43.374668 Altitude 921.90 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  83 
+820 RSSI -109 SNR 7.75 Frequency_Erro 1213 Latitude -21.779523 Longitude -43.374679 Altitude 921.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+821 RSSI -113 SNR 6.00 Frequency_Erro 1212 Latitude -21.779527 Longitude -43.374687 Altitude 921.60 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  97 
+822 RSSI -113 SNR 5.00 Frequency_Erro 1214 Latitude -21.779531 Longitude -43.374694 Altitude 921.80 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  97 
+823 RSSI -110 SNR 7.25 Frequency_Erro 1214 Latitude -21.779535 Longitude -43.374702 Altitude 921.60 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+824 RSSI -114 SNR 5.00 Frequency_Erro 1213 Latitude -21.779539 Longitude -43.374717 Altitude 921.60 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+825 RSSI -111 SNR 6.25 Frequency_Erro 1213 Latitude -21.779539 Longitude -43.374725 Altitude 921.20 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  97 
+826 RSSI -115 SNR 3.50 Frequency_Erro 1214 Latitude -21.779544 Longitude -43.374732 Altitude 921.50 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+827 RSSI -106 SNR 10.00 Frequency_Erro 1213 Latitude -21.779548 Longitude -43.374744 Altitude 921.30 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+828 RSSI -106 SNR 8.00 Frequency_Erro 1213 Latitude -21.779552 Longitude -43.374752 Altitude 921.20 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+829 RSSI -105 SNR 9.75 Frequency_Erro 1213 Latitude -21.779552 Longitude -43.374752 Altitude 921.20 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+830 RSSI -105 SNR 9.00 Frequency_Erro 1213 Latitude -21.779560 Longitude -43.374767 Altitude 921.50 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+831 RSSI -117 SNR 2.75 Frequency_Erro 1212 Latitude -21.779567 Longitude -43.374774 Altitude 921.50 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  89 
+832 RSSI -112 SNR 7.25 Frequency_Erro 1213 Latitude -21.779571 Longitude -43.374782 Altitude 921.60 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+833 RSSI -110 SNR 6.25 Frequency_Erro 1213 Latitude -21.779575 Longitude -43.374797 Altitude 921.60 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  89 
+834 RSSI -111 SNR 6.25 Frequency_Erro 1212 Latitude -21.779581 Longitude -43.374805 Altitude 921.60 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+835 RSSI -115 SNR 2.50 Frequency_Erro 1213 Latitude -21.779588 Longitude -43.374813 Altitude 921.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+836 RSSI -105 SNR 9.25 Frequency_Erro 1211 Latitude -21.779594 Longitude -43.374820 Altitude 921.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+837 RSSI -110 SNR 7.25 Frequency_Erro 1212 Latitude -21.779594 Longitude -43.374820 Altitude 921.70 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+838 RSSI -113 SNR 7.00 Frequency_Erro 1211 Latitude -21.779603 Longitude -43.374839 Altitude 922.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+839 RSSI -117 SNR 0.25 Frequency_Erro 1212 Latitude -21.779607 Longitude -43.374847 Altitude 922.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  107 
+840 RSSI -105 SNR 8.25 Frequency_Erro 1211 Latitude -21.779611 Longitude -43.374855 Altitude 922.10 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+841 RSSI -110 SNR 7.50 Frequency_Erro 1210 Latitude -21.779615 Longitude -43.374858 Altitude 922.20 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+842 RSSI -105 SNR 10.00 Frequency_Erro 1210 Latitude -21.779619 Longitude -43.374866 Altitude 922.10 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+843 RSSI -108 SNR 9.50 Frequency_Erro 1211 Latitude -21.779628 Longitude -43.374881 Altitude 922.30 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+844 RSSI -111 SNR 6.75 Frequency_Erro 1211 Latitude -21.779632 Longitude -43.374889 Altitude 922.30 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  97 
+845 RSSI -111 SNR 6.50 Frequency_Erro 1209 Latitude -21.779636 Longitude -43.374893 Altitude 922.20 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  107 
+846 RSSI -111 SNR 6.25 Frequency_Erro 1210 Latitude -21.779644 Longitude -43.374900 Altitude 922.20 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  89 
+847 RSSI -107 SNR 7.50 Frequency_Erro 1209 Latitude -21.779647 Longitude -43.374912 Altitude 922.30 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+848 RSSI -107 SNR 8.75 Frequency_Erro 1209 Latitude -21.779647 Longitude -43.374912 Altitude 922.30 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+849 RSSI -116 SNR 2.75 Frequency_Erro 1209 Latitude -21.779657 Longitude -43.374927 Altitude 922.80 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+850 RSSI -112 SNR 6.25 Frequency_Erro 1208 Latitude -21.779657 Longitude -43.374927 Altitude 922.80 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+851 RSSI -108 SNR 10.50 Frequency_Erro 1208 Latitude -21.779668 Longitude -43.374942 Altitude 922.90 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+852 RSSI -106 SNR 8.00 Frequency_Erro 1207 Latitude -21.779668 Longitude -43.374942 Altitude 922.90 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+853 RSSI -112 SNR 7.50 Frequency_Erro 1206 Latitude -21.779680 Longitude -43.374961 Altitude 923.10 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  89 
+854 RSSI -119 SNR -0.75 Frequency_Erro 1205 Latitude -21.779680 Longitude -43.374961 Altitude 923.10 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  89 
+855 RSSI -117 SNR 2.00 Frequency_Erro 1205 Latitude -21.779687 Longitude -43.374980 Altitude 923.50 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+856 RSSI -113 SNR 6.75 Frequency_Erro 1204 Latitude -21.779687 Longitude -43.374980 Altitude 923.50 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+857 RSSI -110 SNR 9.00 Frequency_Erro 1203 Latitude -21.779687 Longitude -43.374980 Altitude 923.50 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+858 RSSI -114 SNR 5.00 Frequency_Erro 1205 Latitude -21.779687 Longitude -43.374980 Altitude 923.50 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+859 RSSI -113 SNR 6.25 Frequency_Erro 1200 Latitude -21.779687 Longitude -43.374980 Altitude 923.50 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+860 RSSI -109 SNR 8.50 Frequency_Erro 1201 Latitude -21.779687 Longitude -43.374980 Altitude 923.50 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+861 RSSI -108 SNR 10.50 Frequency_Erro 1199 Latitude -21.779687 Longitude -43.374980 Altitude 923.50 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+862 RSSI -104 SNR 11.50 Frequency_Erro 1199 Latitude -21.779687 Longitude -43.374980 Altitude 923.50 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+863 RSSI -105 SNR 9.25 Frequency_Erro 1199 Latitude -21.779687 Longitude -43.374980 Altitude 923.50 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+864 RSSI -109 SNR 8.75 Frequency_Erro 1196 Latitude -21.779687 Longitude -43.374980 Altitude 923.50 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+865 RSSI -110 SNR 7.00 Frequency_Erro 1196 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+866 RSSI -108 SNR 9.50 Frequency_Erro 1194 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+867 RSSI -108 SNR 9.00 Frequency_Erro 1194 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+868 RSSI -106 SNR 8.25 Frequency_Erro 1193 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+869 RSSI -105 SNR 8.50 Frequency_Erro 1191 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+870 RSSI -107 SNR 10.75 Frequency_Erro 1190 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+871 RSSI -112 SNR 8.00 Frequency_Erro 1190 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+872 RSSI -110 SNR 7.00 Frequency_Erro 1188 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+873 RSSI -111 SNR 7.50 Frequency_Erro 1187 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+874 RSSI -117 SNR 2.75 Frequency_Erro 1185 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+875 RSSI -107 SNR 10.50 Frequency_Erro 1185 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+876 RSSI -108 SNR 9.75 Frequency_Erro 1184 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+877 RSSI -108 SNR 10.25 Frequency_Erro 1182 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+878 RSSI -109 SNR 8.00 Frequency_Erro 1182 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+879 RSSI -109 SNR 7.50 Frequency_Erro 1180 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+880 RSSI -109 SNR 8.75 Frequency_Erro 1180 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+881 RSSI -107 SNR 9.50 Frequency_Erro 1179 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+882 RSSI -109 SNR 9.75 Frequency_Erro 1178 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+883 RSSI -111 SNR 7.00 Frequency_Erro 1177 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+884 RSSI -114 SNR 7.00 Frequency_Erro 1175 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+885 RSSI -112 SNR 8.00 Frequency_Erro 1174 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+886 RSSI -118 SNR 1.00 Frequency_Erro 1172 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+887 RSSI -119 SNR 0.25 Frequency_Erro 1172 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+888 RSSI -115 SNR 5.25 Frequency_Erro 1171 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+889 RSSI -115 SNR 3.75 Frequency_Erro 1169 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+890 RSSI -116 SNR 1.50 Frequency_Erro 1168 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+891 RSSI -119 SNR 0.50 Frequency_Erro 1166 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+892 RSSI -118 SNR 1.75 Frequency_Erro 1167 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+893 RSSI -117 SNR 2.25 Frequency_Erro 1167 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+894 RSSI -120 SNR 0.00 Frequency_Erro 1164 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+895 RSSI -116 SNR 3.75 Frequency_Erro 1164 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+896 RSSI -115 SNR 5.00 Frequency_Erro 1164 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+897 RSSI -114 SNR 4.75 Frequency_Erro 1164 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+898 RSSI -114 SNR 5.50 Frequency_Erro 1162 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+899 RSSI -114 SNR 5.75 Frequency_Erro 1161 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+900 RSSI -116 SNR 4.00 Frequency_Erro 1160 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+901 RSSI -118 SNR 0.25 Frequency_Erro 1166 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+902 RSSI -116 SNR 3.50 Frequency_Erro 1158 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+903 RSSI -111 SNR 8.50 Frequency_Erro 1158 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+904 RSSI -112 SNR 9.00 Frequency_Erro 1156 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+905 RSSI -114 SNR 6.50 Frequency_Erro 1157 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+906 RSSI -115 SNR 6.50 Frequency_Erro 1155 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+907 RSSI -114 SNR 6.00 Frequency_Erro 1153 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+908 RSSI -118 SNR 2.50 Frequency_Erro 1152 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+909 RSSI -116 SNR 4.25 Frequency_Erro 1152 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+910 RSSI -116 SNR 4.25 Frequency_Erro 1151 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+911 RSSI -120 SNR -1.75 Frequency_Erro 1150 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+912 RSSI -119 SNR 2.00 Frequency_Erro 1150 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+913 RSSI -114 SNR 6.00 Frequency_Erro 1150 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+914 RSSI -115 SNR 5.75 Frequency_Erro 1148 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+915 RSSI -113 SNR 7.00 Frequency_Erro 1149 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+916 RSSI -115 SNR 5.25 Frequency_Erro 1148 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+917 RSSI -117 SNR 3.50 Frequency_Erro 1147 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+918 RSSI -115 SNR 5.75 Frequency_Erro 1146 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+919 RSSI -116 SNR 5.50 Frequency_Erro 1147 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+920 RSSI -116 SNR 2.75 Frequency_Erro 1146 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+921 RSSI -114 SNR 6.25 Frequency_Erro 1146 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+922 RSSI -113 SNR 7.00 Frequency_Erro 1146 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+923 RSSI -117 SNR 3.75 Frequency_Erro 1144 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+924 RSSI -123 SNR -3.00 Frequency_Erro 1144 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+925 RSSI -120 SNR 1.25 Frequency_Erro 1142 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+926 RSSI -122 SNR -2.25 Frequency_Erro 1143 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+927 RSSI -122 SNR -1.75 Frequency_Erro 1140 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+928 RSSI -119 SNR 1.00 Frequency_Erro 1142 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+929 RSSI -115 SNR 5.75 Frequency_Erro 1141 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+930 RSSI -114 SNR 6.25 Frequency_Erro 1140 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+931 RSSI -116 SNR 4.00 Frequency_Erro 1142 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+932 RSSI -115 SNR 5.50 Frequency_Erro 1141 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+933 RSSI -113 SNR 8.25 Frequency_Erro 1138 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+934 RSSI -115 SNR 7.00 Frequency_Erro 1138 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+935 RSSI -115 SNR 6.50 Frequency_Erro 1138 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+936 RSSI -115 SNR 6.25 Frequency_Erro 1138 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+937 RSSI -116 SNR 5.75 Frequency_Erro 1137 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+938 RSSI -119 SNR 3.00 Frequency_Erro 1136 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+939 RSSI -118 SNR 3.25 Frequency_Erro 1135 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+940 RSSI -120 SNR 1.50 Frequency_Erro 1135 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+941 RSSI -117 SNR 3.50 Frequency_Erro 1134 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+942 RSSI -120 SNR 1.50 Frequency_Erro 1132 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+943 RSSI -122 SNR -1.50 Frequency_Erro 1129 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+944 RSSI -122 SNR -2.25 Frequency_Erro 1131 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+945 RSSI -119 SNR 2.00 Frequency_Erro 1129 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+946 RSSI -118 SNR 3.00 Frequency_Erro 1130 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+947 RSSI -119 SNR 2.25 Frequency_Erro 1131 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+948 RSSI -117 SNR 4.50 Frequency_Erro 1129 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+949 RSSI -117 SNR 3.50 Frequency_Erro 1127 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+950 RSSI -116 SNR 3.00 Frequency_Erro 1122 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+951 RSSI -120 SNR 0.00 Frequency_Erro 1127 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+952 RSSI -118 SNR 2.00 Frequency_Erro 1127 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+953 RSSI -124 SNR -5.25 Frequency_Erro 1127 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+954 RSSI -120 SNR 1.25 Frequency_Erro 1123 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+955 RSSI -121 SNR -0.25 Frequency_Erro 1123 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+956 RSSI -121 SNR 0.25 Frequency_Erro 1122 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+957 RSSI -118 SNR 3.25 Frequency_Erro 1121 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+958 RSSI -121 SNR -0.75 Frequency_Erro 1121 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+959 RSSI -122 SNR -3.50 Frequency_Erro 10587 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+960 RSSI -123 SNR -3.75 Frequency_Erro 1118 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+961 RSSI -118 SNR 3.00 Frequency_Erro 1119 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+962 RSSI -118 SNR 2.50 Frequency_Erro 1121 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+963 RSSI -120 SNR 1.75 Frequency_Erro 1117 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+964 RSSI -118 SNR 2.50 Frequency_Erro 1116 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+965 RSSI -119 SNR 3.25 Frequency_Erro 1116 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+966 RSSI -117 SNR 4.75 Frequency_Erro 1116 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+967 RSSI -121 SNR 1.00 Frequency_Erro 1114 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+968 RSSI -118 SNR 3.50 Frequency_Erro 1113 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+969 RSSI -115 SNR 6.00 Frequency_Erro 1113 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+970 RSSI -115 SNR 5.75 Frequency_Erro 1113 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+971 RSSI -117 SNR 4.25 Frequency_Erro 1112 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+972 RSSI -117 SNR 4.25 Frequency_Erro 1110 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+973 RSSI -117 SNR 4.75 Frequency_Erro 1109 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+974 RSSI -119 SNR 2.50 Frequency_Erro 1110 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+975 RSSI -118 SNR 4.25 Frequency_Erro 1108 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+976 RSSI -118 SNR 4.00 Frequency_Erro 1106 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+977 RSSI -119 SNR 2.75 Frequency_Erro 1106 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+978 RSSI -115 SNR 2.00 Frequency_Erro 1106 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+979 RSSI -118 SNR 0.25 Frequency_Erro 1105 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+980 RSSI -121 SNR -3.50 Frequency_Erro 1107 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+981 RSSI -121 SNR -3.50 Frequency_Erro 1103 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+982 RSSI -121 SNR -4.50 Frequency_Erro 1101 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+983 RSSI -121 SNR -5.50 Frequency_Erro 1104 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+984 RSSI -121 SNR -7.75 Frequency_Erro 1101 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+985 RSSI -122 SNR -7.25 Frequency_Erro 1101 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+986 RSSI -121 SNR -6.00 Frequency_Erro 1102 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+987 RSSI -121 SNR -7.25 Frequency_Erro 1098 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+988 RSSI -124 SNR -11.25 Frequency_Erro 1095 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+989 RSSI -119 SNR -0.50 Frequency_Erro 1099 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+990 RSSI -119 SNR 1.25 Frequency_Erro 1098 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+991 RSSI -117 SNR 3.50 Frequency_Erro 1100 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+992 RSSI -119 SNR 3.00 Frequency_Erro 1099 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+993 RSSI -119 SNR 1.50 Frequency_Erro 1101 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+994 RSSI -122 SNR 0.75 Frequency_Erro 1100 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+995 RSSI -121 SNR 1.25 Frequency_Erro 1098 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+996 RSSI -121 SNR 1.50 Frequency_Erro 1098 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+997 RSSI -122 SNR -1.50 Frequency_Erro 1096 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+998 RSSI -122 SNR -5.75 Frequency_Erro 1103 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+999 RSSI -123 SNR -12.75 Frequency_Erro 1100 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1000 RSSI -122 SNR -7.50 Frequency_Erro 1102 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1001 RSSI -120 SNR -7.25 Frequency_Erro 1102 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1003 RSSI -117 SNR -6.00 Frequency_Erro 1066 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1004 RSSI -119 SNR -4.00 Frequency_Erro 1103 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1005 RSSI -118 SNR -0.25 Frequency_Erro 1103 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1006 RSSI -120 SNR -3.00 Frequency_Erro 1103 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1007 RSSI -120 SNR -8.00 Frequency_Erro 1105 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1008 RSSI -121 SNR -6.75 Frequency_Erro 1107 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1010 RSSI -117 SNR 1.75 Frequency_Erro 1104 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1011 RSSI -119 SNR -0.50 Frequency_Erro 1108 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1012 RSSI -122 SNR -3.25 Frequency_Erro 1110 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1013 RSSI -118 SNR 2.00 Frequency_Erro 1113 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1014 RSSI -120 SNR -2.25 Frequency_Erro 1117 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1015 RSSI -122 SNR -5.50 Frequency_Erro 1116 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1016 RSSI -122 SNR -3.75 Frequency_Erro 1114 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1017 RSSI -120 SNR -2.75 Frequency_Erro 1117 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1018 RSSI -120 SNR -0.25 Frequency_Erro 1116 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1019 RSSI -122 SNR -5.00 Frequency_Erro 1121 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1021 RSSI -118 SNR 1.50 Frequency_Erro 1121 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1022 RSSI -120 SNR -1.75 Frequency_Erro 1122 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1023 RSSI -116 SNR 2.00 Frequency_Erro 1123 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1024 RSSI -118 SNR 1.25 Frequency_Erro 1122 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1025 RSSI -116 SNR 2.25 Frequency_Erro 1126 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1026 RSSI -116 SNR 5.00 Frequency_Erro 1126 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1027 RSSI -115 SNR 4.50 Frequency_Erro 1127 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1028 RSSI -115 SNR 5.00 Frequency_Erro 1129 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1029 RSSI -114 SNR 6.00 Frequency_Erro 1131 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1030 RSSI -115 SNR 5.50 Frequency_Erro 1134 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1031 RSSI -116 SNR 3.75 Frequency_Erro 1135 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1032 RSSI -119 SNR -0.50 Frequency_Erro 1136 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1033 RSSI -116 SNR 3.50 Frequency_Erro 1135 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1034 RSSI -116 SNR 3.25 Frequency_Erro 1138 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1035 RSSI -118 SNR 3.00 Frequency_Erro 1140 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1036 RSSI -116 SNR 4.50 Frequency_Erro 1140 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1037 RSSI -116 SNR 4.50 Frequency_Erro 1142 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1038 RSSI -116 SNR 4.00 Frequency_Erro 1142 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1039 RSSI -114 SNR 5.50 Frequency_Erro 1146 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1040 RSSI -115 SNR 4.00 Frequency_Erro 1146 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1041 RSSI -115 SNR 4.00 Frequency_Erro 1146 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1042 RSSI -120 SNR -2.25 Frequency_Erro 1149 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1043 RSSI -117 SNR 3.25 Frequency_Erro 1136 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1044 RSSI -121 SNR -4.00 Frequency_Erro 1152 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1045 RSSI -118 SNR 0.75 Frequency_Erro 1151 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1047 RSSI -121 SNR -1.75 Frequency_Erro 1159 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1048 RSSI -118 SNR 2.75 Frequency_Erro 1156 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1049 RSSI -123 SNR -5.25 Frequency_Erro 1158 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1050 RSSI -117 SNR 5.00 Frequency_Erro 1159 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1051 RSSI -116 SNR 6.00 Frequency_Erro 1160 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1052 RSSI -117 SNR 4.75 Frequency_Erro 1162 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1053 RSSI -115 SNR 6.00 Frequency_Erro 1162 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1054 RSSI -114 SNR 8.00 Frequency_Erro 1164 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1055 RSSI -114 SNR 9.00 Frequency_Erro 1165 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1056 RSSI -113 SNR 10.00 Frequency_Erro 1165 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1057 RSSI -113 SNR 9.50 Frequency_Erro 1167 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1058 RSSI -114 SNR 9.25 Frequency_Erro 1168 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1059 RSSI -115 SNR 6.50 Frequency_Erro 1168 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1060 RSSI -114 SNR 9.25 Frequency_Erro 1170 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1061 RSSI -114 SNR 7.25 Frequency_Erro 1171 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1062 RSSI -114 SNR 8.75 Frequency_Erro 1173 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1063 RSSI -114 SNR 8.25 Frequency_Erro 1174 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1064 RSSI -114 SNR 8.25 Frequency_Erro 1175 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1065 RSSI -113 SNR 9.25 Frequency_Erro 1177 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1066 RSSI -120 SNR 2.25 Frequency_Erro 1177 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1067 RSSI -123 SNR -1.25 Frequency_Erro 1175 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1069 RSSI -122 SNR 0.75 Frequency_Erro 1180 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1070 RSSI -114 SNR 7.75 Frequency_Erro 1181 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1071 RSSI -118 SNR 4.00 Frequency_Erro 1200 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1072 RSSI -115 SNR 7.00 Frequency_Erro 1183 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1073 RSSI -115 SNR 7.25 Frequency_Erro 1184 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1074 RSSI -115 SNR 9.00 Frequency_Erro 1185 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1075 RSSI -112 SNR 8.75 Frequency_Erro 1184 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1076 RSSI -111 SNR 8.00 Frequency_Erro 1184 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1077 RSSI -113 SNR 9.75 Frequency_Erro 1187 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1078 RSSI -112 SNR 8.25 Frequency_Erro 1188 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1079 RSSI -112 SNR 9.75 Frequency_Erro 1187 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1080 RSSI -114 SNR 6.75 Frequency_Erro 1190 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1081 RSSI -120 SNR 0.75 Frequency_Erro 1185 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1082 RSSI -115 SNR 6.25 Frequency_Erro 1192 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1083 RSSI -112 SNR 9.25 Frequency_Erro 1192 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1084 RSSI -116 SNR 5.50 Frequency_Erro 1190 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1085 RSSI -122 SNR -0.50 Frequency_Erro 1195 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1086 RSSI -119 SNR 2.00 Frequency_Erro 1192 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1087 RSSI -113 SNR 9.25 Frequency_Erro 1196 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1089 RSSI -115 SNR 6.50 Frequency_Erro 1199 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1090 RSSI -114 SNR 7.25 Frequency_Erro 1199 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1091 RSSI -111 SNR 7.75 Frequency_Erro 1200 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1092 RSSI -113 SNR 8.25 Frequency_Erro 1200 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1093 RSSI -114 SNR 7.50 Frequency_Erro 1200 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1094 RSSI -115 SNR 7.25 Frequency_Erro 1201 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1095 RSSI -114 SNR 6.25 Frequency_Erro 1202 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1096 RSSI -115 SNR 6.00 Frequency_Erro 1203 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1097 RSSI -112 SNR 9.50 Frequency_Erro 1204 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1098 RSSI -110 SNR 9.00 Frequency_Erro 1204 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1099 RSSI -111 SNR 9.50 Frequency_Erro 1205 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1100 RSSI -112 SNR 9.00 Frequency_Erro 1206 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1101 RSSI -112 SNR 9.50 Frequency_Erro 1206 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1102 RSSI -111 SNR 9.25 Frequency_Erro 1206 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1103 RSSI -113 SNR 7.75 Frequency_Erro 1207 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1104 RSSI -111 SNR 7.75 Frequency_Erro 1209 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1105 RSSI -110 SNR 8.50 Frequency_Erro 1207 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1106 RSSI -107 SNR 11.25 Frequency_Erro 1210 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1107 RSSI -109 SNR 10.00 Frequency_Erro 1210 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1108 RSSI -109 SNR 9.50 Frequency_Erro 1211 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1109 RSSI -111 SNR 9.75 Frequency_Erro 1210 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1110 RSSI -114 SNR 7.75 Frequency_Erro 1212 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1111 RSSI -112 SNR 9.75 Frequency_Erro 1212 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1112 RSSI -113 SNR 8.50 Frequency_Erro 1210 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1113 RSSI -111 SNR 8.75 Frequency_Erro 1213 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1114 RSSI -112 SNR 8.00 Frequency_Erro 1213 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1115 RSSI -113 SNR 8.50 Frequency_Erro 1213 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1116 RSSI -111 SNR 8.50 Frequency_Erro 1214 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1117 RSSI -111 SNR 7.75 Frequency_Erro 1215 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1118 RSSI -110 SNR 9.00 Frequency_Erro 1216 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1119 RSSI -114 SNR 7.50 Frequency_Erro 1216 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1120 RSSI -112 SNR 9.25 Frequency_Erro 1216 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1121 RSSI -112 SNR 9.75 Frequency_Erro 1218 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1122 RSSI -111 SNR 8.25 Frequency_Erro 1217 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1123 RSSI -109 SNR 9.50 Frequency_Erro 1218 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1124 RSSI -108 SNR 11.50 Frequency_Erro 1220 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1125 RSSI -106 SNR 8.25 Frequency_Erro 1221 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1126 RSSI -107 SNR 10.75 Frequency_Erro 1221 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1127 RSSI -106 SNR 9.00 Frequency_Erro 1222 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1129 RSSI -111 SNR 7.75 Frequency_Erro 1224 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1130 RSSI -110 SNR 8.75 Frequency_Erro 1223 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1131 RSSI -115 SNR 7.25 Frequency_Erro 1224 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1132 RSSI -110 SNR 8.75 Frequency_Erro 1226 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1133 RSSI -106 SNR 8.00 Frequency_Erro 1226 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1134 RSSI -107 SNR 10.50 Frequency_Erro 1226 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1135 RSSI -111 SNR 8.00 Frequency_Erro 1226 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1136 RSSI -110 SNR 9.25 Frequency_Erro 1228 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1137 RSSI -109 SNR 9.25 Frequency_Erro 1229 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1138 RSSI -112 SNR 8.75 Frequency_Erro 1227 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1139 RSSI -112 SNR 9.00 Frequency_Erro 1229 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1140 RSSI -116 SNR 6.50 Frequency_Erro 1232 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1141 RSSI -116 SNR 6.75 Frequency_Erro 1233 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1142 RSSI -113 SNR 9.25 Frequency_Erro 1232 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1143 RSSI -108 SNR 11.50 Frequency_Erro 1232 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1144 RSSI -110 SNR 10.00 Frequency_Erro 1234 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1145 RSSI -109 SNR 10.50 Frequency_Erro 1234 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1146 RSSI -118 SNR 5.00 Frequency_Erro 1234 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1147 RSSI -110 SNR 9.50 Frequency_Erro 1234 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1148 RSSI -111 SNR 9.00 Frequency_Erro 1236 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1149 RSSI -111 SNR 8.50 Frequency_Erro 1237 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1150 RSSI -112 SNR 9.00 Frequency_Erro 1237 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1151 RSSI -116 SNR 6.00 Frequency_Erro 1238 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1152 RSSI -110 SNR 9.75 Frequency_Erro 1238 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1153 RSSI -109 SNR 11.25 Frequency_Erro 1239 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1154 RSSI -109 SNR 11.00 Frequency_Erro 1239 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1155 RSSI -110 SNR 9.50 Frequency_Erro 1243 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1156 RSSI -116 SNR 5.75 Frequency_Erro 1244 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1157 RSSI -117 SNR 5.50 Frequency_Erro 1245 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1158 RSSI -106 SNR 9.00 Frequency_Erro 1243 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1159 RSSI -110 SNR 9.25 Frequency_Erro 1245 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1160 RSSI -113 SNR 9.00 Frequency_Erro 1246 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1161 RSSI -109 SNR 10.00 Frequency_Erro 1246 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1162 RSSI -113 SNR 9.50 Frequency_Erro 1246 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1163 RSSI -107 SNR 8.00 Frequency_Erro 1248 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1164 RSSI -109 SNR 11.25 Frequency_Erro 1247 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1165 RSSI -108 SNR 11.50 Frequency_Erro 1248 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1166 RSSI -108 SNR 11.25 Frequency_Erro 1249 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1167 RSSI -114 SNR 9.00 Frequency_Erro 1251 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1168 RSSI -114 SNR 7.75 Frequency_Erro 1251 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1169 RSSI -109 SNR 10.50 Frequency_Erro 1252 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1170 RSSI -115 SNR 7.25 Frequency_Erro 1253 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1171 RSSI -110 SNR 10.50 Frequency_Erro 1253 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1172 RSSI -111 SNR 9.00 Frequency_Erro 1254 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1173 RSSI -107 SNR 9.25 Frequency_Erro 1256 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1174 RSSI -110 SNR 9.75 Frequency_Erro 1255 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1175 RSSI -110 SNR 10.50 Frequency_Erro 1256 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1176 RSSI -119 SNR 3.75 Frequency_Erro 1257 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1177 RSSI -113 SNR 9.25 Frequency_Erro 1260 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1178 RSSI -115 SNR 7.25 Frequency_Erro 1259 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1179 RSSI -118 SNR 5.00 Frequency_Erro 1260 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1180 RSSI -114 SNR 6.50 Frequency_Erro 1259 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1181 RSSI -110 SNR 9.50 Frequency_Erro 1260 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1182 RSSI -117 SNR 4.75 Frequency_Erro 1261 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1183 RSSI -113 SNR 8.75 Frequency_Erro 1261 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1184 RSSI -113 SNR 10.25 Frequency_Erro 1261 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1185 RSSI -112 SNR 8.50 Frequency_Erro 1268 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1186 RSSI -110 SNR 8.50 Frequency_Erro 1264 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1187 RSSI -108 SNR 10.00 Frequency_Erro 1264 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1188 RSSI -111 SNR 9.25 Frequency_Erro 1264 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1189 RSSI -107 SNR 10.25 Frequency_Erro 1263 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1190 RSSI -108 SNR 11.00 Frequency_Erro 1264 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1191 RSSI -106 SNR 9.75 Frequency_Erro 1267 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1192 RSSI -109 SNR 9.25 Frequency_Erro 1267 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1193 RSSI -106 SNR 9.25 Frequency_Erro 1267 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1194 RSSI -104 SNR 11.50 Frequency_Erro 1269 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1195 RSSI -107 SNR 10.75 Frequency_Erro 1269 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1196 RSSI -109 SNR 10.00 Frequency_Erro 1269 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1197 RSSI -106 SNR 9.75 Frequency_Erro 1271 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1198 RSSI -119 SNR 3.00 Frequency_Erro 1274 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1199 RSSI -119 SNR 3.00 Frequency_Erro 1273 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1200 RSSI -106 SNR 8.50 Frequency_Erro 1273 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1201 RSSI -103 SNR 11.25 Frequency_Erro 1274 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1202 RSSI -105 SNR 8.75 Frequency_Erro 1274 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1203 RSSI -105 SNR 9.00 Frequency_Erro 1276 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1204 RSSI -107 SNR 11.25 Frequency_Erro 1277 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1205 RSSI -107 SNR 11.25 Frequency_Erro 1278 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1206 RSSI -106 SNR 9.50 Frequency_Erro 1278 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1207 RSSI -105 SNR 9.00 Frequency_Erro 1279 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1208 RSSI -108 SNR 8.25 Frequency_Erro 1279 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1209 RSSI -105 SNR 9.75 Frequency_Erro 1280 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1210 RSSI -106 SNR 8.50 Frequency_Erro 1280 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1211 RSSI -113 SNR 8.50 Frequency_Erro 1280 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1212 RSSI -107 SNR 10.00 Frequency_Erro 1282 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1213 RSSI -105 SNR 9.00 Frequency_Erro 1282 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1214 RSSI -105 SNR 10.50 Frequency_Erro 1282 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1215 RSSI -107 SNR 9.50 Frequency_Erro 1286 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1216 RSSI -107 SNR 9.00 Frequency_Erro 1285 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1217 RSSI -110 SNR 9.75 Frequency_Erro 1288 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1218 RSSI -107 SNR 9.50 Frequency_Erro 1286 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1219 RSSI -105 SNR 8.50 Frequency_Erro 1287 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1220 RSSI -108 SNR 8.50 Frequency_Erro 1281 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1221 RSSI -110 SNR 8.50 Frequency_Erro 1289 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1222 RSSI -110 SNR 8.00 Frequency_Erro 1290 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1223 RSSI -107 SNR 10.50 Frequency_Erro 1291 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1224 RSSI -106 SNR 10.50 Frequency_Erro 1290 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1225 RSSI -104 SNR 11.00 Frequency_Erro 1290 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1226 RSSI -106 SNR 9.50 Frequency_Erro 1289 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1227 RSSI -111 SNR 8.50 Frequency_Erro 1291 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1228 RSSI -117 SNR 3.00 Frequency_Erro 1294 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1229 RSSI -108 SNR 9.25 Frequency_Erro 1291 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1230 RSSI -107 SNR 8.75 Frequency_Erro 1290 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1231 RSSI -105 SNR 9.75 Frequency_Erro 1292 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1232 RSSI -105 SNR 9.75 Frequency_Erro 1289 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1233 RSSI -110 SNR 9.00 Frequency_Erro 1292 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1234 RSSI -103 SNR 4.75 Frequency_Erro 1256 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1235 RSSI -102 SNR 9.25 Frequency_Erro 1292 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1236 RSSI -108 SNR 9.50 Frequency_Erro 1293 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1237 RSSI -106 SNR 9.75 Frequency_Erro 1294 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1238 RSSI -104 SNR 10.25 Frequency_Erro 1293 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1239 RSSI -104 SNR 11.75 Frequency_Erro 1295 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1240 RSSI -111 SNR 7.75 Frequency_Erro 1294 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1241 RSSI -114 SNR 8.25 Frequency_Erro 1295 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1242 RSSI -106 SNR 8.75 Frequency_Erro 1294 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1243 RSSI -106 SNR 8.50 Frequency_Erro 1295 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1244 RSSI -105 SNR 11.25 Frequency_Erro 1295 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1245 RSSI -103 SNR 10.00 Frequency_Erro 1294 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1246 RSSI -109 SNR 8.25 Frequency_Erro 1295 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1247 RSSI -100 SNR 11.50 Frequency_Erro 1294 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1248 RSSI -100 SNR 11.50 Frequency_Erro 1294 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1249 RSSI -102 SNR 8.75 Frequency_Erro 1295 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1250 RSSI -105 SNR 11.25 Frequency_Erro 1295 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1251 RSSI -103 SNR 8.50 Frequency_Erro 1295 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1252 RSSI -106 SNR 9.00 Frequency_Erro 1295 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1253 RSSI -102 SNR 10.00 Frequency_Erro 1295 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1254 RSSI -105 SNR 10.50 Frequency_Erro 1295 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1255 RSSI -102 SNR 9.00 Frequency_Erro 1295 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1256 RSSI -101 SNR 11.00 Frequency_Erro 1296 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1257 RSSI -109 SNR 9.75 Frequency_Erro 1297 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1258 RSSI -101 SNR 11.25 Frequency_Erro 1297 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1259 RSSI -99 SNR 6.25 Frequency_Erro 1254 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1260 RSSI -99 SNR 11.50 Frequency_Erro 1297 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1261 RSSI -99 SNR 11.50 Frequency_Erro 1297 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1262 RSSI -100 SNR 10.25 Frequency_Erro 1297 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1263 RSSI -97 SNR 9.25 Frequency_Erro 1297 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1264 RSSI -99 SNR 11.50 Frequency_Erro 1297 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1265 RSSI -99 SNR 10.50 Frequency_Erro 1297 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1266 RSSI -102 SNR 8.50 Frequency_Erro 1298 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1267 RSSI -102 SNR 9.25 Frequency_Erro 1298 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1268 RSSI -100 SNR 11.25 Frequency_Erro 1299 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1269 RSSI -99 SNR 11.00 Frequency_Erro 1298 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1270 RSSI -99 SNR 9.50 Frequency_Erro 1299 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1271 RSSI -98 SNR 9.25 Frequency_Erro 1299 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1272 RSSI -98 SNR 8.50 Frequency_Erro 1299 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1273 RSSI -101 SNR 10.50 Frequency_Erro 1300 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1274 RSSI -98 SNR 10.50 Frequency_Erro 1299 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1275 RSSI -97 SNR 9.00 Frequency_Erro 1299 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1276 RSSI -95 SNR 8.25 Frequency_Erro 1301 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1277 RSSI -97 SNR 10.50 Frequency_Erro 1300 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1278 RSSI -96 SNR 12.00 Frequency_Erro 1300 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1279 RSSI -97 SNR 11.75 Frequency_Erro 1301 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1280 RSSI -92 SNR 10.00 Frequency_Erro 1301 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1281 RSSI -93 SNR 8.25 Frequency_Erro 1301 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1282 RSSI -93 SNR 9.75 Frequency_Erro 1302 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1283 RSSI -93 SNR 8.50 Frequency_Erro 1302 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1284 RSSI -94 SNR 9.25 Frequency_Erro 1302 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1285 RSSI -94 SNR 11.00 Frequency_Erro 1302 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1286 RSSI -92 SNR 9.75 Frequency_Erro 1303 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1287 RSSI -94 SNR 8.00 Frequency_Erro 1303 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1288 RSSI -94 SNR 8.50 Frequency_Erro 1303 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1289 RSSI -97 SNR 9.00 Frequency_Erro 1303 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1290 RSSI -96 SNR 10.25 Frequency_Erro 1301 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1291 RSSI -93 SNR 10.25 Frequency_Erro 1303 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1292 RSSI -94 SNR 9.75 Frequency_Erro 1304 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1293 RSSI -91 SNR 12.00 Frequency_Erro 1304 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1294 RSSI -91 SNR 11.50 Frequency_Erro 1306 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1295 RSSI -91 SNR 11.25 Frequency_Erro 1306 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1296 RSSI -93 SNR 9.75 Frequency_Erro 1306 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1297 RSSI -93 SNR 9.75 Frequency_Erro 1306 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1298 RSSI -93 SNR 9.25 Frequency_Erro 1306 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1299 RSSI -91 SNR 12.25 Frequency_Erro 1306 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1300 RSSI -90 SNR 12.00 Frequency_Erro 1306 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1301 RSSI -90 SNR 10.00 Frequency_Erro 1303 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1302 RSSI -98 SNR 10.50 Frequency_Erro 1306 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1303 RSSI -92 SNR 9.75 Frequency_Erro 1304 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1304 RSSI -89 SNR 10.25 Frequency_Erro 1304 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1305 RSSI -86 SNR 12.25 Frequency_Erro 1304 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1306 RSSI -87 SNR 11.50 Frequency_Erro 1304 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1307 RSSI -87 SNR 10.25 Frequency_Erro 1303 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1308 RSSI -84 SNR 8.50 Frequency_Erro 1303 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1309 RSSI -85 SNR 12.50 Frequency_Erro 1303 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1310 RSSI -86 SNR 11.25 Frequency_Erro 1303 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 
+1311 RSSI -90 SNR 10.00 Frequency_Erro 1302 Latitude -21.779735 Longitude -43.375057 Altitude 924.00 Velocidade_(km/h)  4.02 Sentido_(graus) 51.88 Satelites  11 Precisao_(centesimos_de_seg)  78 

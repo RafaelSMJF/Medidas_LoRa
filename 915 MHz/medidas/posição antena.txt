@@ -1,0 +1,53 @@
+Medidas de altitude e posição com GPS
+LAT -21.778888 LONG -43.373565
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.778888,-43.373565
+pisição: 0
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+LAT -21.778823 LONG -43.373600
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.778823,-43.373600
+pisição: 1
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+LAT -21.778903 LONG -43.373630
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.778903,-43.373630
+pisição: 2
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+LAT -21.778919 LONG -43.373630
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.778919,-43.373630
+pisição: 3
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10

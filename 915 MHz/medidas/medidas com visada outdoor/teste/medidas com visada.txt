@@ -1,0 +1,526 @@
+LoRa Receiver
+Received packet posi 0 with RSSI -85 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -92 with SNR 10.25 LAT -21.779035 LONG -43.373638
+Received packet posi 0 with RSSI -85 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 0 with RSSI -87 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 0 with RSSI -85 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -85 with SNR 10.75 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -86 with SNR 6.75 LAT -21.779035 LONG -43.373638
+Received packet posi 0 with RSSI -85 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 0 with RSSI -89 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 0 with RSSI -86 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 1 with RSSI -85 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 1 with RSSI -86 with SNR 11.25 LAT -21.779035 LONG -43.373638
+Received packet posi 1 with RSSI -81 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 1 with RSSI -68 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 1 with RSSI -81 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 1 with RSSI -81 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 1 with RSSI -82 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 1 with RSSI -82 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 1 with RSSI -79 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 2 with RSSI -75 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 2 with RSSI -81 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 2 with RSSI -83 with SNR 6.75 LAT -21.779035 LONG -43.373638
+Received packet posi 2 with RSSI -82 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 2 with RSSI -82 with SNR 12.00 LAT -21.779035 LONG -43.373638
+Received packet posi 2 with RSSI -83 with SNR 11.25 LAT -21.779035 LONG -43.373638
+Received packet posi 2 with RSSI -80 with SNR 11.00 LAT -21.779035 LONG -43.373638
+Received packet posi 2 with RSSI -81 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 2 with RSSI -81 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 2 with RSSI -82 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 7 with RSSI -83 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 7 with RSSI -84 with SNR 10.50 LAT -21.779035 LONG -43.373638
+Received packet posi 3 with RSSI -83 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 3 with RSSI -84 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 3 with RSSI -84 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 3 with RSSI -83 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 3 with RSSI -83 with SNR 11.00 LAT -21.779035 LONG -43.373638
+Received packet posi 3 with RSSI -84 with SNR 6.75 LAT -21.779035 LONG -43.373638
+Received packet posi 7 with RSSI -85 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 3 with RSSI -86 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -88 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -87 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -90 with SNR 11.00 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -88 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -88 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -88 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -88 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -88 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -90 with SNR 10.75 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -88 with SNR 10.75 LAT -21.779035 LONG -43.373638
+Received packet pos9 = with RSSI -82 with SNR 6.75 LAT -21.779035 LONG -43.373638
+Received packet posi 5 with RSSI -88 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 5 with RSSI -87 with SNR 11.00 LAT -21.779035 LONG -43.373638
+Received packet posi 5 with RSSI -87 with SNR 10.50 LAT -21.779035 LONG -43.373638
+Received packet posi 5 with RSSI -87 with SNR 11.00 LAT -21.779035 LONG -43.373638
+Received packet posi 5 with RSSI -88 with SNR 11.25 LAT -21.779035 LONG -43.373638
+Received packet posi 5 with RSSI -87 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 5 with RSSI -87 with SNR 6.75 LAT -21.779035 LONG -43.373638
+Received packet posi 5 with RSSI -87 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 5 with RSSI -88 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 6 with RSSI -94 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 6 with RSSI -93 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 6 with RSSI -92 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 6 with RSSI -95 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 6 with RSSI -95 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 6 with RSSI -94 with SNR 10.50 LAT -21.779035 LONG -43.373638
+Received packet posi 6 with RSSI -96 with SNR 6.75 LAT -21.779035 LONG -43.373638
+Received packet posi 6 with RSSI -94 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 6 with RSSI -92 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet pos9 7 with RSSI -99 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet pos9 7 with RSSI -95 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 7 with RSSI -95 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 7 with RSSI -95 with SNR 10.50 LAT -21.779035 LONG -43.373638
+Received packet posi 7 with RSSI -94 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 7 with RSSI -95 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 7 with RSSI -96 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 7 with RSSI -96 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 7 with RSSI -96 with SNR 10.50 LAT -21.779035 LONG -43.373638
+Received packet posi 7 with RSSI -98 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -106 with SNR 10.75 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -101 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 8 with RSSI -102 with SNR 10.75 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -101 with SNR 13.00 LAT -21.779035 LONG -43.373638
+Received packet posi 8 with RSSI -101 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 8 with RSSI -104 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 8 with RSSI -105 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 8 with RSSI -105 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 4 with RSSI -105 with SNR 6.75 LAT -21.779035 LONG -43.373638
+Received packet posi 1 with RSSI -97 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 1 with RSSI -96 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 9 with RSSI -98 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 9 with RSSI -98 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 1 with RSSI -97 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 9 with RSSI -98 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi = with RSSI -99 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 1 with RSSI -97 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 9 with RSSI -97 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi =0 with RSSI -95 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi =0 with RSSI -100 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi =0 with RSSI -99 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 10 with RSSI -100 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi =0 with RSSI -100 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 10 with RSSI -98 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi =0 with RSSI -102 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi =0 with RSSI -110 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 10 with RSSI -99 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 10 with RSSI -98 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 91 with RSSI -97 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 51 with RSSI -110 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 11 with RSSI -99 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 91 with RSSI -104 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 91 with RSSI -104 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 91 with RSSI -102 with SNR 6.75 LAT -21.779035 LONG -43.373638
+Received packet posi 11 with RSSI -110 with SNR 10.75 LAT -21.779035 LONG -43.373638
+Received packet posi 11 with RSSI -108 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 11 with RSSI -111 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 11 with RSSI -108 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 92 with RSSI -100 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 92 with RSSI -98 with SNR 10.50 LAT -21.779035 LONG -43.373638
+Received packet posi 92 with RSSI -100 with SNR 11.00 LAT -21.779035 LONG -43.373638
+Received packet posi 12 with RSSI -99 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 92 with RSSI -97 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 12 with RSSI -97 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 92 with RSSI -96 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 12 with RSSI -96 with SNR 10.50 LAT -21.779035 LONG -43.373638
+Received packet posi 92 with RSSI -99 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 13 with RSSI -100 with SNR 10.75 LAT -21.779035 LONG -43.373638
+Received packet posi =3 with RSSI -100 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi =3 with RSSI -100 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 13 with RSSI -102 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 13 with RSSI -100 with SNR 6.75 LAT -21.779035 LONG -43.373638
+Received packet posi 13 with RSSI -99 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 13 with RSSI -100 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 13 with RSSI -99 with SNR 10.50 LAT -21.779035 LONG -43.373638
+Received packet posi 13 with RSSI -99 with SNR 11.00 LAT -21.779035 LONG -43.373638
+Received packet posi 13 with RSSI -99 with SNR 10.50 LAT -21.779035 LONG -43.373638
+Received packet posi 94 with RSSI -104 with SNR 11.25 LAT -21.779035 LONG -43.373638
+Received packet posi 94 with RSSI -106 with SNR 10.25 LAT -21.779035 LONG -43.373638
+Received packet posi 14 with RSSI -105 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 14 with RSSI -102 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 14 with RSSI -103 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 94 with RSSI -101 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 94 with RSSI -101 with SNR 7.00 LAT -21.779035 LONG -43.373638
+Received packet posi 14 with RSSI -101 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet posi 94 with RSSI -93 with SNR 11.00 LAT -21.779035 LONG -43.373638
+Received packet posi 94 with RSSI -101 with SNR 7.25 LAT -21.779035 LONG -43.373638
+Received packet pos9 15 with RSSI -96 with SNR 10.50
+Received packet pos9 15 with RSSI -96 with SNR 7.25
+Received packet posi 15 with RSSI -96 with SNR 7.25
+Received packet posi 15 with RSSI -96 with SNR 7.00
+Received packet posi 15 with RSSI -97 with SNR 7.00
+Received packet posi 15 with RSSI -98 with SNR 10.75
+Received packet posi 15 with RSSI -98 with SNR 7.25
+Received packet posi 15 with RSSI -98 with SNR 7.25
+Received packet posi 15 with RSSI -97 with SNR 7.25
+Received packet posi 16 with RSSI -94 with SNR 7.25
+Received packet posi 16 with RSSI -94 with SNR 7.00
+Received packet posi 16 with RSSI -94 with SNR 7.00
+Received packet posi 16 with RSSI -95 with SNR 7.25
+Received packet posi 16 with RSSI -95 with SNR 7.00
+Received packet posi 16 with RSSI -95 with SNR 7.25
+Received packet posi 16 with RSSI -95 with SNR 11.00
+Received packet posi 16 with RSSI -95 with SNR 10.75
+Received packet posi 16 with RSSI -95 with SNR 7.00
+Received packet posi 16 with RSSI -109 with SNR 7.00
+Received packet pos9 97 with RSSI -98 with SNR 6.75
+Received packet posi 97 with RSSI -97 with SNR 10.75
+Received packet posi 17 with RSSI -98 with SNR 7.25
+Received packet posi 17 with RSSI -98 with SNR 11.25
+Received packet posi 97 with RSSI -96 with SNR 7.25
+Received packet posi 17 with RSSI -96 with SNR 6.75
+Received packet posi 97 with RSSI -96 with SNR 7.00
+Received packet posi 97 with RSSI -97 with SNR 7.25
+Received packet posi 17 with RSSI -97 with SNR 7.25
+Received packet posi 18 with RSSI -105 with SNR 11.00
+Received packet posi 58 with RSSI -105 with SNR 7.25
+Received packet posi 18 with RSSI -105 with SNR 7.25
+Received packet posi 18 with RSSI -105 with SNR 7.25
+Received packet posi 18 with RSSI -105 with SNR 7.25
+Received packet posi 18 with RSSI -104 with SNR 7.00
+Received packet posi 18 with RSSI -108 with SNR 7.25
+Received packet posi 18 with RSSI -113 with SNR 7.25
+Received packet posi 18 with RSSI -112 with SNR 10.75
+Received packet posi 18 with RSSI -113 with SNR 10.50
+Received packet posi 19 with RSSI -97 with SNR 11.00
+Received packet posi 19 with RSSI -97 with SNR 7.00
+Received packet posi 19 with RSSI -97 with SNR 6.75
+Received packet posi 19 with RSSI -97 with SNR 7.00
+Received packet posi 19 with RSSI -97 with SNR 7.00
+Received packet posi 19 with RSSI -97 with SNR 11.00
+Received packet posi 19 with RSSI -97 with SNR 10.75
+Received packet posi 19 with RSSI -97 with SNR 6.75
+Received packet posi 19 with RSSI -97 with SNR 7.25
+Received packet posi >0 with RSSI -100 with SNR 11.00
+Received packet pos9 20 with RSSI -101 with SNR 7.25
+Received packet posi 20 with RSSI -101 with SNR 7.00
+Received packet posi 20 with RSSI -101 with SNR 6.75
+Received packet posi 20 with RSSI -101 with SNR 6.75
+Received packet posi 20 with RSSI -100 with SNR 6.75
+Received packet posi 20 with RSSI -102 with SNR 10.50
+Received packet posi 20 with RSSI -101 with SNR 6.75
+Received packet posi 20 with RSSI -103 with SNR 10.50
+Received packet posi 20 with RSSI -103 with SNR 7.25
+Received packet posi :1 with RSSI -104 with SNR 6.75
+Received packet posi :1 with RSSI -104 with SNR 7.25
+Received packet posi :1 with RSSI -105 with SNR 7.00
+Received packet posi :1 with RSSI -105 with SNR 7.00
+Received packet posi 21 with RSSI -105 with SNR 7.00
+Received packet posi :1 with RSSI -105 with SNR 6.75
+Received packet posi 21 with RSSI -105 with SNR 7.00
+Received packet posi 21 with RSSI -105 with SNR 6.75
+Received packet posi 21 with RSSI -104 with SNR 7.00
+Received packet posi 21 with RSSI -104 with SNR 7.25
+Received packet posi :2 with RSSI -109 with SNR 7.00
+Received packet posi :2 with RSSI -108 with SNR 7.25
+Received packet posi :2 with RSSI -107 with SNR 7.25
+Received packet posi 22 with RSSI -106 with SNR 7.00
+Received packet posi 22 with RSSI -107 with SNR 7.25
+Received packet posi :2 with RSSI -107 with SNR 7.25
+Received packet posi 22 with RSSI -107 with SNR 7.25
+Received packet posi 22 with RSSI -109 with SNR 7.25
+Received packet posi :2 with RSSI -119 with SNR 7.25
+Received packet posi 22 with RSSI -121 with SNR 7.00
+Received packet posi >3 with RSSI -111 with SNR 11.00
+Received packet posi >3 with RSSI -110 with SNR 10.25
+Received packet posi 23 with RSSI -110 with SNR 7.25
+Received packet posi 23 with RSSI -111 with SNR 7.00
+Received packet posi 23 with RSSI -111 with SNR 10.25
+Received packet posi >3 with RSSI -111 with SNR 10.25
+Received packet posi 23 with RSSI -112 with SNR 7.25
+Received packet posi 23 with RSSI -111 with SNR 7.00
+Received packet posi 23 with RSSI -112 with SNR 7.25
+Received packet posi >3 with RSSI -111 with SNR 11.25
+Received packet pos9 :4 with RSSI -113 with SNR 10.50
+Received packet posi :4 with RSSI -113 with SNR 7.00
+Received packet posi :4 with RSSI -112 with SNR 10.50
+Received packet posi :4 with RSSI -113 with SNR 10.75
+Received packet posi 24 with RSSI -113 with SNR 6.75
+Received packet posi :4 with RSSI -112 with SNR 7.00
+Received packet posi 24 with RSSI -115 with SNR 7.00
+Received packet posi :4 with RSSI -113 with SNR 6.75
+Received packet posi :4 with RSSI -114 with SNR 7.00
+Received packet posi 24 with RSSI -114 with SNR 7.25
+Received packet posi 25 with RSSI -115 with SNR 7.25
+Received packet posi 25 with RSSI -117 with SNR 7.25
+Received packet posi 25 with RSSI -118 with SNR 7.25
+Received packet posi 25 with RSSI -116 with SNR 7.00
+Received packet posi 25 with RSSI -116 with SNR 10.75
+Received packet posi 25 with RSSI -111 with SNR 7.00
+Received packet posi 25 with RSSI -116 with SNR 7.25
+Received packet posi 25 with RSSI -118 with SNR 7.25
+Received packet posi 25 with RSSI -117 with SNR 7.25
+Received packet posi 25 with RSSI -116 with SNR 7.25
+Received packet posi 26 with RSSI -115 with SNR 10.75
+Received packet posi 26 with RSSI -116 with SNR 10.75
+Received packet posi 26 with RSSI -116 with SNR 7.25
+Received packet posi 26 with RSSI -116 with SNR 7.00
+Received packet posi 26 with RSSI -116 with SNR 7.25
+Received packet posi 26 with RSSI -114 with SNR 7.25
+Received packet posi 26 with RSSI -115 with SNR 7.00
+Received packet posi 26 with RSSI -115 with SNR 7.00
+Received packet posi 26 with RSSI -114 with SNR 10.50
+Received packet posi 26 with RSSI -115 with SNR 7.00
+Received packet posi :7 with RSSI -112 with SNR 7.25
+Received packet posi :7 with RSSI -113 with SNR 6.75
+Received packet posi 27 with RSSI -113 with SNR 7.25
+Received packet posi :7 with RSSI -114 with SNR 7.25
+Received packet posi :7 with RSSI -113 with SNR 7.25
+Received packet posi 27 with RSSI -113 with SNR 7.00
+Received packet posi 27 with RSSI -114 with SNR 7.00
+Received packet posi :7 with RSSI -114 with SNR 10.50
+Received packet posi 27 with RSSI -114 with SNR 7.25
+Received packet posi 27 with RSSI -114 with SNR 7.25
+Received packet posi 68 with RSSI -111 with SNR 7.25
+Received packet posi 68 with RSSI -111 with SNR 7.00
+Received packet posi 28 with RSSI -111 with SNR 7.00
+Received packet posi 28 with RSSI -111 with SNR 6.75
+Received packet posi 28 with RSSI -111 with SNR 7.25
+Received packet posi 68 with RSSI -110 with SNR 7.25
+Received packet posi 28 with RSSI -110 with SNR 7.25
+Received packet posi 28 with RSSI -110 with SNR 10.75
+Received packet posi 28 with RSSI -109 with SNR 10.75
+Received packet posi 29 with RSSI -113 with SNR 7.25
+Received packet posi 29 with RSSI -113 with SNR 10.75
+Received packet posi 29 with RSSI -113 with SNR 6.75
+Received packet posi 29 with RSSI -113 with SNR 11.00
+Received packet posi 29 with RSSI -114 with SNR 10.25
+Received packet posi 29 with RSSI -113 with SNR 10.75
+Received packet posi 29 with RSSI -114 with SNR 7.00
+Received packet posi 29 with RSSI -114 with SNR 7.00
+Received packet posi 29 with RSSI -114 with SNR 7.25
+Received packet posi 29 with RSSI -114 with SNR 10.50
+Received packet posi 30 with RSSI -104 with SNR 7.25
+Received packet posi 30 with RSSI -111 with SNR 10.75
+Received packet posi ;0 with RSSI -113 with SNR 11.00
+Received packet posi ;0 with RSSI -113 with SNR 7.25
+Received packet posi 30 with RSSI -113 with SNR 7.00
+Received packet posi ;0 with RSSI -116 with SNR 7.00
+Received packet posi 30 with RSSI -117 with SNR 7.00
+Received packet posi 30 with RSSI -113 with SNR 7.00
+Received packet posi 30 with RSSI -113 with SNR 11.00
+Received packet posi 30 with RSSI -112 with SNR 7.00
+Received packet posi ?1 with RSSI -110 with SNR 7.25
+Received packet posi ?1 with RSSI -108 with SNR 7.25
+Received packet posi ?1 with RSSI -108 with SNR 7.25
+Received packet posi ?1 with RSSI -108 with SNR 7.25
+Received packet posi ?1 with RSSI -109 with SNR 7.00
+Received packet posi 31 with RSSI -109 with SNR 10.50
+Received packet posi ?1 with RSSI -109 with SNR 10.75
+Received packet posi 31 with RSSI -110 with SNR 7.25
+Received packet posi 31 with RSSI -109 with SNR 11.00
+Received packet posi 31 with RSSI -109 with SNR 6.75
+Received packet posi ?2 with RSSI -122 with SNR 7.00
+Received packet posi 32 with RSSI -115 with SNR 7.00
+Received packet posi ?2 with RSSI -117 with SNR 10.75
+Received packet posi 32 with RSSI -119 with SNR 7.25
+Received packet posi 32 with RSSI -118 with SNR 7.25
+Received packet posi ?2 with RSSI -119 with SNR 7.25
+Received packet posi 32 with RSSI -116 with SNR 7.25
+Received packet posi 32 with RSSI -114 with SNR 7.00
+Received packet posi 32 with RSSI -113 with SNR 7.25
+Received packet posi 32 with RSSI -112 with SNR 7.25
+Received packet posi 73 with RSSI -105 with SNR 7.25
+Received packet posi ;3 with RSSI -104 with SNR 10.75
+Received packet posi ;3 with RSSI -105 with SNR 6.75
+Received packet posi ;3 with RSSI -108 with SNR 7.00
+Received packet posi 33 with RSSI -106 with SNR 11.25
+Received packet posi 33 with RSSI -105 with SNR 7.25
+Received packet posi 73 with RSSI -104 with SNR 7.00
+Received packet posi ;3 with RSSI -105 with SNR 11.00
+Received packet posi ;3 with RSSI -105 with SNR 7.25
+Received packet posi 33 with RSSI -105 with SNR 7.00
+Received packet posi 34 with RSSI -112 with SNR 7.00
+Received packet posi 34 with RSSI -111 with SNR 10.75
+Received packet posi 34 with RSSI -111 with SNR 11.25
+Received packet posi 34 with RSSI -110 with SNR 7.25
+Received packet posi 34 with RSSI -111 with SNR 7.25
+Received packet posi 34 with RSSI -111 with SNR 7.25
+Received packet posi 34 with RSSI -110 with SNR 7.00
+Received packet posi 34 with RSSI -111 with SNR 7.25
+Received packet posi 34 with RSSI -110 with SNR 7.25
+Received packet posi 34 with RSSI -109 with SNR 7.25
+Received packet pos9 ;5 with RSSI -99 with SNR 7.25
+Received packet posi ;5 with RSSI -99 with SNR 7.00
+Received packet posi 35 with RSSI -98 with SNR 7.25
+Received packet posi 35 with RSSI -99 with SNR 7.00
+Received packet posi 35 with RSSI -99 with SNR 7.25
+Received packet posi ;5 with RSSI -99 with SNR 7.00
+Received packet posi 35 with RSSI -98 with SNR 7.00
+Received packet posi 35 with RSSI -98 with SNR 7.25
+Received packet posi ;5 with RSSI -98 with SNR 7.25
+Received packet posi 35 with RSSI -99 with SNR 7.25
+Received packet posi ;6 with RSSI -97 with SNR 6.75
+Received packet posi ;6 with RSSI -97 with SNR 11.25
+Received packet posi 36 with RSSI -97 with SNR 11.25
+Received packet posi ;6 with RSSI -97 with SNR 11.25
+Received packet posi ;6 with RSSI -97 with SNR 7.25
+Received packet posi ;6 with RSSI -97 with SNR 11.25
+Received packet posi ;6 with RSSI -97 with SNR 7.25
+Received packet posi 36 with RSSI -97 with SNR 7.25
+Received packet posi 36 with RSSI -97 with SNR 7.25
+Received packet posi 36 with RSSI -97 with SNR 7.25
+Received packet pos9 37 with RSSI -103 with SNR 6.75
+Received packet posi 37 with RSSI -103 with SNR 7.00
+Received packet posi 37 with RSSI -102 with SNR 7.25
+Received packet posi 37 with RSSI -102 with SNR 7.00
+Received packet posi 37 with RSSI -103 with SNR 7.25
+Received packet posi 37 with RSSI -102 with SNR 11.25
+Received packet posi 37 with RSSI -103 with SNR 11.25
+Received packet posi 37 with RSSI -102 with SNR 11.50
+Received packet posi 37 with RSSI -93 with SNR 11.25
+Received packet posi 38 with RSSI -93 with SNR 11.25
+Received packet posi 38 with RSSI -98 with SNR 7.25
+Received packet posi 38 with RSSI -98 with SNR 7.25
+Received packet posi 38 with RSSI -99 with SNR 7.25
+Received packet posi 38 with RSSI -98 with SNR 7.25
+Received packet posi 38 with RSSI -98 with SNR 6.75
+Received packet posi 38 with RSSI -98 with SNR 6.75
+Received packet posi 38 with RSSI -99 with SNR 7.25
+Received packet posi 38 with RSSI -98 with SNR 6.75
+Received packet posi 38 with RSSI -98 with SNR 10.75
+Received packet posi 79 with RSSI -99 with SNR 7.00
+Received packet posi 39 with RSSI -99 with SNR 7.25
+Received packet posi 79 with RSSI -99 with SNR 7.25 
+Received packet posi 79 with RSSI -99 with SNR 7.00
+Received packet posi 39 with RSSI -99 with SNR 11.25 
+Received packet posi 39 with RSSI -99 with SNR 7.25
+Received packet posi 79 with RSSI -99 with SNR 6.75
+Received packet posi 39 with RSSI -99 with SNR 6.75
+Received packet posi 39 with RSSI -99 with SNR 6.75
+Received packet posi 39 with RSSI -99 with SNR 11.25
+Received packet pos9 40 with RSSI -95 with SNR 7.25
+Received packet posi 40 with RSSI -103 with SNR 7.25
+Received packet posi 40 with RSSI -102 with SNR 7.25
+Received packet posi 40 with RSSI -100 with SNR 7.25
+Received packet posi 40 with RSSI -101 with SNR 7.25
+Received packet posi 40 with RSSI -101 with SNR 7.00
+Received packet posi 40 with RSSI -101 with SNR 7.25
+Received packet posi 40 with RSSI -101 with SNR 7.25
+Received packet posi 40 with RSSI -101 with SNR 7.00
+Received packet posi 40 with RSSI -102 with SNR 7.25
+Received packet posi <1 with RSSI -98 with SNR 7.25
+Received packet posi <1 with RSSI -98 with SNR 7.00
+Received packet posi <1 with RSSI -98 with SNR 7.25
+Received packet posi 41 with RSSI -99 with SNR 7.25
+Received packet posi 41 with RSSI -98 with SNR 7.25
+Received packet posi <1 with RSSI -97 with SNR 7.25
+Received packet posi 41 with RSSI -98 with SNR 7.25
+Received packet posi 41 with RSSI -97 with SNR 7.25
+Received packet posi 41 with RSSI -97 with SNR 7.00
+Received packet posi 41 with RSSI -98 with SNR 7.25
+Received packet pos9 <2 with RSSI -102 with SNR 10.75
+Received packet posi <2 with RSSI -102 with SNR 7.25
+Received packet posi <2 with RSSI -103 with SNR 7.25
+Received packet posi <2 with RSSI -102 with SNR 7.25
+Received packet posi <2 with RSSI -104 with SNR 7.00
+Received packet posi 42 with RSSI -103 with SNR 7.25
+Received packet posi 42 with RSSI -104 with SNR 7.00
+Received packet posi 42 with RSSI -104 with SNR 7.00
+Received packet posi <2 with RSSI -103 with SNR 6.75
+Received packet posi 42 with RSSI -103 with SNR 11.00
+Received packet posi 43 with RSSI -104 with SNR 7.25
+Received packet posi 43 with RSSI -105 with SNR 7.25
+Received packet posi 43 with RSSI -104 with SNR 7.25
+Received packet posi 43 with RSSI -104 with SNR 7.25
+Received packet posi 43 with RSSI -106 with SNR 7.25
+Received packet posi 43 with RSSI -105 with SNR 7.25
+Received packet posi 43 with RSSI -105 with SNR 10.75
+Received packet posi 43 with RSSI -105 with SNR 7.25
+Received packet posi <4 with RSSI -100 with SNR 7.25
+Received packet posi <4 with RSSI -101 with SNR 7.25
+Received packet posi <4 with RSSI -101 with SNR 7.00
+Received packet posi <4 with RSSI -99 with SNR 11.25
+Received packet posi <4 with RSSI -99 with SNR 6.75
+Received packet posi 44 with RSSI -100 with SNR 7.25
+Received packet posi 44 with RSSI -99 with SNR 7.25
+Received packet posi 44 with RSSI -100 with SNR 7.25
+Received packet posi 44 with RSSI -99 with SNR 11.25
+Received packet posi 44 with RSSI -99 with SNR 7.00
+Received packet posi 85 with RSSI -96 with SNR 11.25
+Received packet posi 45 with RSSI -96 with SNR 10.75
+Received packet posi 85 with RSSI -96 with SNR 11.25
+Received packet posi 85 with RSSI -95 with SNR 11.25
+Received packet posi 85 with RSSI -97 with SNR 7.25
+Received packet posi 85 with RSSI -97 with SNR 7.00
+Received packet posi 45 with RSSI -98 with SNR 7.25
+Received packet posi 45 with RSSI -98 with SNR 10.75
+Received packet posi 45 with RSSI -100 with SNR 11.25
+Received packet posi 45 with RSSI -100 with SNR 7.25
+Received packet posi 86 with RSSI -96 with SNR 7.25
+Received packet posi 86 with RSSI -97 with SNR 7.25
+Received packet posi 46 with RSSI -96 with SNR 7.00
+Received packet posi 46 with RSSI -95 with SNR 7.25
+Received packet posi 46 with RSSI -95 with SNR 7.00
+Received packet posi 46 with RSSI -95 with SNR 7.00
+Received packet posi 46 with RSSI -95 with SNR 7.25
+Received packet posi 46 with RSSI -96 with SNR 7.00
+Received packet posi 46 with RSSI -96 with SNR 11.25
+Received packet posi 46 with RSSI -95 with SNR 6.75
+Received packet posi <7 with RSSI -97 with SNR 7.25
+Received packet posi <7 with RSSI -96 with SNR 7.25
+Received packet posi <7 with RSSI -96 with SNR 11.25
+Received packet posi <7 with RSSI -95 with SNR 11.25
+Received packet posi 47 with RSSI -96 with SNR 11.25
+Received packet posi 47 with RSSI -96 with SNR 7.00
+Received packet posi 47 with RSSI -96 with SNR 7.25
+Received packet posi 47 with RSSI -97 with SNR 7.25
+Received packet posi 47 with RSSI -96 with SNR 11.00
+Received packet posi <7 with RSSI -97 with SNR 7.25
+Received packet pos9 48 with RSSI -90 with SNR 6.75
+Received packet posi 48 with RSSI -91 with SNR 7.25
+Received packet posi 48 with RSSI -90 with SNR 7.00
+Received packet posi 48 with RSSI -92 with SNR 11.25
+Received packet posi 48 with RSSI -90 with SNR 10.75
+Received packet posi 48 with RSSI -90 with SNR 7.00
+Received packet posi 48 with RSSI -90 with SNR 7.25
+Received packet posi 48 with RSSI -91 with SNR 7.25
+Received packet posi 49 with RSSI -89 with SNR 11.00
+Received packet posi 49 with RSSI -89 with SNR 7.25
+Received packet posi 49 with RSSI -90 with SNR 7.00
+Received packet posi 49 with RSSI -89 with SNR 10.75
+Received packet posi 49 with RSSI -87 with SNR 7.25
+Received packet posi 49 with RSSI -87 with SNR 10.75
+Received packet posi 49 with RSSI -87 with SNR 7.00
+Received packet posi 49 with RSSI -88 with SNR 10.75
+Received packet posi 49 with RSSI -88 with SNR 7.00
+Received packet posi 49 with RSSI -88 with SNR 7.25
+Received packet posi =0 with RSSI -84 with SNR 7.00
+Received packet posi =0 with RSSI -85 with SNR 6.75
+Received packet posi =0 with RSSI -84 with SNR 7.25
+Received packet posi =0 with RSSI -84 with SNR 7.25
+Received packet posi =0 with RSSI -84 with SNR 7.00
+Received packet posi 50 with RSSI -84 with SNR 6.75
+Received packet posi =0 with RSSI -84 with SNR 11.25
+Received packet posi 50 with RSSI -85 with SNR 7.25
+Received packet posi =0 with RSSI -85 with SNR 11.25
+Received packet posi 50 with RSSI -85 with SNR 7.00
+Received packet posi 51 with RSSI -84 with SNR 7.00
+Received packet pos9 51 with RSSI -84 with SNR 11.25
+Received packet posi 51 with RSSI -84 with SNR 7.00
+Received packet posi 51 with RSSI -84 with SNR 7.25
+Received packet posi 51 with RSSI -84 with SNR 7.00
+Received packet posi 51 with RSSI -84 with SNR 11.00
+Received packet posi 51 with RSSI -84 with SNR 7.25
+Received packet posi 51 with RSSI -84 with SNR 6.75
+Received packet posi 51 with RSSI -84 with SNR 10.75
+Received packet posi 52 with RSSI -81 with SNR 7.25
+Received packet posi 52 with RSSI -80 with SNR 6.75
+Received packet posi 52 with RSSI -81 with SNR 7.25
+Received packet posi 52 with RSSI -81 with SNR 7.00
+Received packet posi 52 with RSSI -81 with SNR 10.75
+Received packet posi 52 with RSSI -81 with SNR 7.25
+Received packet posi 52 with RSSI -81 with SNR 10.75
+Received packet posi 52 with RSSI -81 with SNR 10.50
+Received packet posi 52 with RSSI -81 with SNR 7.25
+Received packet posi 52 with RSSI -80 with SNR 7.25
+Received packet posi =3 with RSSI -82 with SNR 10.50
+Received packet posi =3 with RSSI -82 with SNR 7.25
+Received packet posi 53 with RSSI -82 with SNR 7.25
+Received packet pos9 =3 with RSSI -82 with SNR 7.25
+Received packet posi =3 with RSSI -82 with SNR 10.75
+Received packet posi =3 with RSSI -82 with SNR 7.25
+Received packet posi 53 with RSSI -82 with SNR 7.25
+Received packet posi 53 with RSSI -82 with SNR 7.25
+Received packet posi 53 with RSSI -83 with SNR 6.75
+Received packet posi 53 with RSSI -82 with SNR 7.25

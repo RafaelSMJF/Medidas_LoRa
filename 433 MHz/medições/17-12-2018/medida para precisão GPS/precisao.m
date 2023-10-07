@@ -1,0 +1,148 @@
+clear all;
+close all;
+clc;
+load('matlab.mat')
+lat_ini =  -21.778875;
+long_ini = -43.373710;
+DIST=distance(lat_ini,long_ini,LA,LO)
+DIST2=DIST*100000
+p1=DIST2(244:396)
+p2=DIST2(809:930)
+p3=DIST2(529:687)
+
+
+figure
+plot(MEDIDA,DIST2)
+title('Distância')
+xlabel('medida','fontsize',14)
+ylabel('Distância (m)','fontsize',14)
+
+
+
+%tratamento para a precisão
+%ponto p1
+media = mean(p1)
+mediana = median(p1)
+moda = mode(p1)
+amplitude = range(p1)
+maximo = max(p1)
+minimo = min(p1)
+desvio_medio = mad(p1)
+varianc = var(p1)
+desvio_pad = std(p1)
+coef_var = (desvio_pad/media)*100
+figure 
+boxplot(p1)
+xlabel('medição ponto 1')
+ylabel('distância (m)','fontsize',14)
+tamanho1= [1:1:length(p1)]
+figure
+plot(tamanho1,p1)
+title('medidas no ponto 1')
+xlabel('medida')
+ylabel('distância (m)','fontsize',14)
+disp('Resultados da medida no ponto 1')
+disp('media: ')
+disp(media)
+disp('mediana: ')
+disp(mediana)
+disp('moda: ')
+disp(moda)
+disp('amplitude: ')
+disp(amplitude)
+disp('valor máximo: ')
+disp(maximo)
+disp('valor mínimo:')
+disp(minimo)
+disp('desvio medio: ')
+disp(desvio_medio)
+disp('variancia: ')
+disp(varianc)
+disp('Desvio padrão: ')
+disp(desvio_pad)
+disp('coeficiente de variação')
+disp(coef_var)
+%ponto p2
+media = mean(p2)
+mediana = median(p2)
+moda = mode(p2)
+amplitude = range(p2)
+maximo = max(p2)
+minimo = min(p2)
+desvio_medio = mad(p2)
+varianc = var(p2)
+desvio_pad = std(p2)
+coef_var = (desvio_pad/media)*100
+figure
+boxplot(p2)
+xlabel('medição ponto 2')
+ylabel('distância (m)','fontsize',14)
+tamanho1= [1:1:length(p2)]
+figure
+plot(tamanho1,p2)
+title('medidas no ponto 2')
+xlabel('medida')
+ylabel('distância (m)')
+disp('Resultados da medida no ponto 2')
+disp('media: ')
+disp(media)
+disp('mediana: ')
+disp(mediana)
+disp('moda: ')
+disp(moda)
+disp('amplitude: ')
+disp(amplitude)
+disp('valor máximo: ')
+disp(maximo)
+disp('valor mínimo:')
+disp(minimo)
+disp('desvio medio: ')
+disp(desvio_medio)
+disp('variancia: ')
+disp(varianc)
+disp('Desvio padrão: ')
+disp(desvio_pad)
+disp('coeficiente de variação')
+disp(coef_var)
+%ponto p3
+media = mean(p3)
+mediana = median(p3)
+moda = mode(p3)
+amplitude = range(p3)
+maximo = max(p3)
+minimo = min(p1)
+desvio_medio = mad(p3)
+varianc = var(p3)
+desvio_pad = std(p3)
+coef_var = (desvio_pad/media)*100
+figure
+boxplot(p3)
+xlabel('medição ponto 3')
+ylabel('distância (m)','fontsize',14)
+tamanho1= [1:1:length(p3)]
+figure
+plot(tamanho1,p3)
+title('medidas no ponto 3')
+xlabel('medida')
+ylabel('distancia (m)')
+disp('Resultados da medida no ponto 3')
+disp('media: ')
+disp(media)
+disp('mediana: ')
+disp(mediana)
+disp('moda: ')
+disp(moda)
+disp('amplitude: ')
+disp(amplitude)
+disp('valor máximo: ')
+disp(maximo)
+disp('valor mínimo:')
+disp(minimo)
+disp('desvio medio: ')
+disp(desvio_medio)
+disp('variancia: ')
+disp(varianc)
+disp('Desvio padrão: ')
+disp(desvio_pad)
+disp('coeficiente de variação')
+disp(coef_var)

@@ -1,0 +1,417 @@
+Medidas de altitude e posição com GPS
+ LAT -21.779216 LONG -43.373294
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.779216,-43.373294
+pisição: 0
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.779039 LONG -43.373088
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.779039,-43.373088
+pisição: 1
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.778951 LONG -43.373081
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.778951,-43.373081
+pisição: 2
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.778888 LONG -43.372909
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.778888,-43.372909
+pisição: 3
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.778816 LONG -43.372787
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.778816,-43.372787
+pisição: 4
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.778745 LONG -43.372730
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.778745,-43.372730
+pisição: 5
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.778608 LONG -43.372657
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.778608,-43.372657
+pisição: 6
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.778532 LONG -43.372600
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.778532,-43.372600
+pisição: 7
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.778459 LONG -43.372520
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.778459,-43.372520
+pisição: 8
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.778387 LONG -43.372440
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.778387,-43.372440
+pisição: 9
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.778324 LONG -43.372360
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.778324,-43.372360
+pisição: 10
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.778244 LONG -43.372287
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.778244,-43.372287
+pisição: 11
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.778125 LONG -43.372249
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.778125,-43.372249
+pisição: 12
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.778005 LONG -43.372261
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.778005,-43.372261
+pisição: 13
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777887 LONG -43.372230
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777887,-43.372230
+pisição: 14
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777774 LONG -43.372192
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777774,-43.372192
+pisição: 15
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777675 LONG -43.372192
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777675,-43.372192
+pisição: 16
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777576 LONG -43.372142
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777576,-43.372142
+pisição: 17
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777420 LONG -43.372119
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777420,-43.372119
+pisição: 18
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777307 LONG -43.372161
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777307,-43.372161
+pisição: 19
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777244 LONG -43.372203
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777244,-43.372203
+pisição: 20
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777145 LONG -43.372333
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777145,-43.372333
+pisição: 21
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777191 LONG -43.372432
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777191,-43.372432
+pisição: 22
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777212 LONG -43.372470
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777212,-43.372470
+pisição: 23
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777288 LONG -43.372550
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777288,-43.372550
+pisição: 24
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777374 LONG -43.372646
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777374,-43.372646
+pisição: 25
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777494 LONG -43.372749
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777494,-43.372749
+pisição: 26
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777568 LONG -43.372837
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777568,-43.372837
+pisição: 27
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777643 LONG -43.372909
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777643,-43.372909
+pisição: 28
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777717 LONG -43.372974
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777717,-43.372974
+pisição: 29
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777795 LONG -43.373046
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777795,-43.373046
+pisição: 30
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10
+ LAT -21.777912 LONG -43.373142
+Link para Google Maps:   https://maps.google.com/maps/?&z=10&q=-21.777912,-43.373142
+pisição: 31
+pacote: 1
+pacote: 2
+pacote: 3
+pacote: 4
+pacote: 5
+pacote: 6
+pacote: 7
+pacote: 8
+pacote: 9
+pacote: 10

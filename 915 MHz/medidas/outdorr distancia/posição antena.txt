@@ -1,0 +1,20 @@
+Received packet 'posi 54' with RSSI -16' with SNR 7.00
+Received packet 'posi⸮94' with RSSI -16' with SNR 7.25
+Received packet 'posi 54' with RSSI -16' with SNR 7.00
+Received packet 'posi 94' with RSSI -17' with SNR 7.25
+Received packet 'posi 94' with RSSI -17' with SNR 6.75
+Received packet 'posi 94' with RSSI -16' with SNR 7.00
+Received packet 'posi 54' with RSSI -17' with SNR 7.25
+Received packet 'posi 54' with RSSI -18' with SNR 7.25
+Received packet 'posi 94' with RSSI -18' with SNR 6.75
+Received packet 'posi 54' with RSSI -18' with SNR 11.25
+Received packet 'posi 15' with RSSI -17' with SNR 7.00
+Received packet 'posi 15' with RSSI -17' with SNR 7.00
+Received packet 'posi =5' with RSSI -17' with SNR 7.00
+Received packet 'posi =5' with RSSI -17' with SNR 7.00
+Received packet 'posi 15' with RSSI -18' with SNR 7.00
+Received packet 'posi 55' with RSSI -17' with SNR 10.75
+Received packet 'posi 15' with RSSI -18' with SNR 7.25
+Received packet 'posi 15' with RSSI -17' with SNR 7.25
+Received packet 'posi 15' with RSSI -17' with SNR 7.00
+Received packet 'posi 55' with RSSI -17' with SNR 7.25
